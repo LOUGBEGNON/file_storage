@@ -1,0 +1,990 @@
+ID	Nom	Âge	Sexe	Nationalité	Compétence	Niveau de Maîtrise	Diplôme	Institution	Année de Obtention	Titre du Poste	Entreprise	Durée	Projets Clés	Activity	Description	Date
+1	Person 1	53	F	Germany	Agile Development	Débutant	MSc in Computer Science	MIT	2019.0	Data Scientist	NextGen Technologies	2006-2011	Développement d'API REST pour un système de paiement	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+1	Person 1	53	F	Germany	React	Expert	MSc in Computer Science	Stanford University	2017.0					Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+1	Person 1	53	F	Germany	SQL	Expert	MSc in Software Development	Université de Toronto	2011.0					Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+1	Person 1	53	F	Germany	Microservices	Avancé										
+1	Person 1	53	F	Germany	React	Expert										
+1	Person 1	53	F	Germany	Node.js	Débutant										
+2	Person 2	58	M	USA	Git	Intermédiaire	MSc in Software Development	Université Paris-Sud	2013.0	System Analyst	Global Tech	2005-2010	Système de gestion de contenu (CMS)	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2018.0
+2	Person 2	58	M	USA	DevOps	Intermédiaire	Diploma in Full Stack Development	MIT	2004.0	DevOps Engineer	Innovative Solutions	2007-2011	Développement d'une application de gestion de tâches			
+2	Person 2	58	M	USA	Java	Intermédiaire				Project Manager	Innovative Solutions	2013-2016	Mise en place de CI/CD avec Jenkins			
+3	Person 3	48	M	Germany	REST APIs	Débutant	Diploma in Full Stack Development	University of Cambridge	2013.0	Project Manager	Innovative Solutions	2018-2022	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2018.0
+3	Person 3	48	M	Germany	Git	Débutant								Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+3	Person 3	48	M	Germany	React	Expert										
+3	Person 3	48	M	Germany	Agile Development	Expert										
+4	Person 4	30	F	Canada	Git	Intermédiaire	MSc in Software Development	MIT	2003.0	Software Developer	Innovative Solutions	2015-2019	Migration vers le cloud	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2015.0
+4	Person 4	30	F	Canada	Cloud Services (AWS, Azure)	Expert	Diploma in Full Stack Development	University of Cambridge	2008.0	DevOps Engineer	NextGen Technologies	2019-2024	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2022.0
+4	Person 4	30	F	Canada	Python	Avancé										
+4	Person 4	30	F	Canada	Agile Development	Avancé										
+5	Person 5	33	F	Germany	Python	Expert	MSc in Computer Science	Université de Toronto	2004.0	Data Scientist	Innovative Solutions	2019-2021	Système de gestion des utilisateurs	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+5	Person 5	33	F	Germany	Agile Development	Expert	MSc in Computer Science	MIT	2009.0	Project Manager	ABC Inc	2003-2007	Migration vers le cloud	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+5	Person 5	33	F	Germany	DevOps	Débutant	Diploma in Full Stack Development	Université de Toronto	2003.0	Software Developer	NextGen Technologies	2011-2013	Application mobile de commerce électronique			
+5	Person 5	33	F	Germany	Agile Development	Avancé				Data Scientist	NextGen Technologies	2015-2020	Intégration d'une plateforme de microservices			
+5	Person 5	33	F	Germany	React	Avancé										
+6	Person 6	36	M	Canada	Node.js	Débutant	MSc in Computer Science	Université Paris-Sud	2007.0	Project Manager	Global Tech	2020-2023	Développement d'API REST pour un système de paiement	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+6	Person 6	36	M	Canada	SQL	Débutant	MSc in Software Development	Stanford University	2000.0	Software Developer	Innovative Solutions	2004-2007	Système de gestion des utilisateurs	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+6	Person 6	36	M	Canada	JavaScript	Expert	MSc in Computer Science	Université Paris-Sud	2023.0					Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2021.0
+6	Person 6	36	M	Canada	Node.js	Avancé										
+6	Person 6	36	M	Canada	C++	Avancé										
+7	Person 7	48	M	Canada	Docker	Débutant	Diploma in Full Stack Development	Université Paris-Sud	2010.0	System Analyst	ABC Inc	2009-2014	Mise en place de CI/CD avec Jenkins	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2015.0
+7	Person 7	48	M	Canada	Java	Avancé				Project Manager	Innovative Solutions	2007-2011	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2019.0
+7	Person 7	48	M	Canada	SQL	Expert				Data Scientist	NextGen Technologies	2010-2011	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2015.0
+7	Person 7	48	M	Canada	Python	Expert										
+8	Person 8	29	M	UK	Cloud Services (AWS, Azure)	Expert	BSc in Software Engineering	University of Cambridge	2004.0	System Analyst	ABC Inc	2011-2015	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2015.0
+8	Person 8	29	M	UK	DevOps	Avancé	BSc in Software Engineering	Université Paris-Sud	2013.0					Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2022.0
+8	Person 8	29	M	UK	Cloud Services (AWS, Azure)	Expert	MSc in Software Development	Université Paris-Sud	2023.0					Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2023.0
+9	Person 9	35	F	Germany	SQL	Expert	MSc in Software Development	Université Paris-Sud	2003.0	System Analyst	NextGen Technologies	2005-2009	Mise en place de CI/CD avec Jenkins	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2019.0
+9	Person 9	35	F	Germany	Kubernetes	Expert								Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2020.0
+9	Person 9	35	F	Germany	Python	Expert								Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+10	Person 10	54	F	Canada	Agile Development	Expert	Diploma in Full Stack Development	MIT	2003.0	System Analyst	Innovative Solutions	2014-2019	Mise en place de CI/CD avec Jenkins	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+10	Person 10	54	F	Canada	Java	Avancé	Diploma in Full Stack Development	University of Cambridge	2016.0	DevOps Engineer	ABC Inc	2003-2008	Développement d'une application de gestion de tâches			
+10	Person 10	54	F	Canada	Kubernetes	Avancé	BSc in Software Engineering	MIT	2020.0							
+11	Person 11	47	M	Canada	React	Avancé	MSc in Computer Science	Stanford University	2005.0	Data Scientist	ABC Inc	2006-2011	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2022.0
+11	Person 11	47	M	Canada	HTML/CSS	Débutant				Software Developer	Innovative Solutions	2018-2023	Application mobile de commerce électronique	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2016.0
+11	Person 11	47	M	Canada	React	Expert								Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+11	Person 11	47	M	Canada	SQL	Intermédiaire										
+12	Person 12	23	F	France	REST APIs	Avancé	BSc in Software Engineering	University of Cambridge	2005.0	DevOps Engineer	NextGen Technologies	2011-2015	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2018.0
+12	Person 12	23	F	France	Python	Avancé	BSc in Information Technology	Université de Toronto	2013.0					Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2017.0
+12	Person 12	23	F	France	Node.js	Intermédiaire								Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2017.0
+12	Person 12	23	F	France	Docker	Expert										
+12	Person 12	23	F	France	Agile Development	Débutant										
+13	Person 13	59	F	Germany	Java	Expert	Diploma in Full Stack Development	Université Paris-Sud	2023.0	Software Developer	Global Tech	2010-2011	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2021.0
+13	Person 13	59	F	Germany	React	Expert				Project Manager	Innovative Solutions	2017-2020	Système de gestion de contenu (CMS)			
+13	Person 13	59	F	Germany	DevOps	Intermédiaire				Project Manager	ABC Inc	2009-2012	Développement d'une application de gestion de tâches			
+13	Person 13	59	F	Germany	DevOps	Intermédiaire				System Analyst	XYZ Corp	2009-2010	Développement d'API REST pour un système de paiement			
+13	Person 13	59	F	Germany	Node.js	Débutant										
+13	Person 13	59	F	Germany	DevOps	Intermédiaire										
+14	Person 14	30	F	USA	Node.js	Expert	Diploma in Full Stack Development	Université de Toronto	2009.0	Software Developer	XYZ Corp	2011-2012	Intégration d'une plateforme de microservices	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+14	Person 14	30	F	USA	Cloud Services (AWS, Azure)	Expert	MSc in Software Development	Université Paris-Sud	2014.0					Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+14	Person 14	30	F	USA	React	Débutant	MSc in Software Development	Université de Toronto	2001.0							
+14	Person 14	30	F	USA	Docker	Intermédiaire										
+14	Person 14	30	F	USA	DevOps	Expert										
+14	Person 14	30	F	USA	JavaScript	Expert										
+14	Person 14	30	F	USA	JavaScript	Avancé										
+15	Person 15	51	M	UK	C++	Avancé	BSc in Information Technology	University of Cambridge	2010.0	DevOps Engineer	Innovative Solutions	2013-2016	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+15	Person 15	51	M	UK	Python	Expert	Diploma in Full Stack Development	University of Cambridge	2022.0	Software Developer	Innovative Solutions	2000-2001	Système de gestion des utilisateurs	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2015.0
+15	Person 15	51	M	UK	React	Expert	BSc in Information Technology	University of Cambridge	2015.0	Project Manager	XYZ Corp	2014-2018	Application mobile de commerce électronique	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+15	Person 15	51	M	UK						Project Manager	XYZ Corp	2006-2010	Développement d'API REST pour un système de paiement			
+16	Person 16	22	F	USA	Agile Development	Débutant	MSc in Computer Science	University of Cambridge	2010.0	Software Developer	XYZ Corp	2002-2005	Développement d'une application de gestion de tâches	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2015.0
+16	Person 16	22	F	USA	HTML/CSS	Intermédiaire	Diploma in Full Stack Development	University of Cambridge	2021.0	System Analyst	Innovative Solutions	2013-2015	Système de gestion des utilisateurs			
+16	Person 16	22	F	USA	C++	Intermédiaire	MSc in Software Development	University of Cambridge	2011.0							
+16	Person 16	22	F	USA	SQL	Intermédiaire										
+16	Person 16	22	F	USA	SQL	Expert										
+16	Person 16	22	F	USA	Agile Development	Intermédiaire										
+16	Person 16	22	F	USA	Microservices	Avancé										
+17	Person 17	33	F	France	C++	Intermédiaire	MSc in Software Development	Université Paris-Sud	2017.0	Software Developer	ABC Inc	2016-2020	Application mobile de commerce électronique	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2022.0
+17	Person 17	33	F	France	Agile Development	Avancé	Diploma in Full Stack Development	University of Cambridge	2016.0	DevOps Engineer	ABC Inc	2016-2020	Application mobile de commerce électronique			
+17	Person 17	33	F	France	Agile Development	Débutant										
+17	Person 17	33	F	France	JavaScript	Expert										
+17	Person 17	33	F	France	SQL	Expert										
+17	Person 17	33	F	France	Microservices	Expert										
+18	Person 18	54	M	Canada	C++	Débutant	BSc in Software Engineering	Université Paris-Sud	2017.0	Software Developer	ABC Inc	2002-2006	Système de gestion des utilisateurs	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+18	Person 18	54	M	Canada	Docker	Avancé	MSc in Software Development	Université Paris-Sud	2003.0	DevOps Engineer	Global Tech	2015-2017	Développement d'API REST pour un système de paiement			
+18	Person 18	54	M	Canada	DevOps	Intermédiaire				Software Developer	ABC Inc	2015-2020	Développement d'une application de gestion de tâches			
+18	Person 18	54	M	Canada	DevOps	Débutant										
+18	Person 18	54	M	Canada	REST APIs	Intermédiaire										
+19	Person 19	56	M	USA	DevOps	Débutant	BSc in Software Engineering	MIT	2007.0	DevOps Engineer	Global Tech	2003-2008	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+19	Person 19	56	M	USA	REST APIs	Intermédiaire	MSc in Computer Science	Université de Toronto	2008.0	DevOps Engineer	XYZ Corp	2016-2017	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2023.0
+19	Person 19	56	M	USA	Microservices	Avancé				Software Developer	NextGen Technologies	2007-2009	Mise en place de CI/CD avec Jenkins			
+20	Person 20	43	F	France	Docker	Débutant	BSc in Software Engineering	University of Cambridge	2009.0	Project Manager	Global Tech	2020-2025	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+20	Person 20	43	F	France	JavaScript	Intermédiaire				Software Developer	NextGen Technologies	2018-2021	Système de gestion des utilisateurs	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2019.0
+20	Person 20	43	F	France	C++	Avancé				Data Scientist	Global Tech	2008-2009	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+21	Person 21	29	M	USA	DevOps	Avancé	Diploma in Full Stack Development	Université de Toronto	2012.0	System Analyst	NextGen Technologies	2004-2007	Système de gestion de contenu (CMS)	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2020.0
+21	Person 21	29	M	USA	Git	Intermédiaire	BSc in Software Engineering	Université Paris-Sud	2006.0	Project Manager	Innovative Solutions	2013-2016	Intégration d'une plateforme de microservices	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2017.0
+21	Person 21	29	M	USA	Python	Intermédiaire										
+21	Person 21	29	M	USA	JavaScript	Intermédiaire										
+21	Person 21	29	M	USA	SQL	Débutant										
+21	Person 21	29	M	USA	Java	Intermédiaire										
+22	Person 22	49	M	Germany	JavaScript	Intermédiaire	Diploma in Full Stack Development	Stanford University	2016.0	DevOps Engineer	Innovative Solutions	2018-2021	Mise en place de CI/CD avec Jenkins	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2018.0
+22	Person 22	49	M	Germany	Git	Avancé	BSc in Information Technology	MIT	2000.0	Data Scientist	Innovative Solutions	2011-2016	Migration vers le cloud	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2018.0
+22	Person 22	49	M	Germany	Agile Development	Expert	MSc in Computer Science	Université de Toronto	2022.0	System Analyst	XYZ Corp	2008-2011	Migration vers le cloud	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+22	Person 22	49	M	Germany	JavaScript	Avancé				Project Manager	ABC Inc	2012-2013	Mise en place de CI/CD avec Jenkins			
+22	Person 22	49	M	Germany	Kubernetes	Intermédiaire										
+23	Person 23	25	M	Germany	DevOps	Avancé	Diploma in Full Stack Development	University of Cambridge	2022.0	Project Manager	NextGen Technologies	2020-2024	Développement d'une application de gestion de tâches	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2015.0
+23	Person 23	25	M	Germany	C++	Avancé	Diploma in Full Stack Development	Université Paris-Sud	2022.0	Software Developer	XYZ Corp	2017-2021	Application mobile de commerce électronique	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2020.0
+23	Person 23	25	M	Germany	C++	Expert								Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2017.0
+23	Person 23	25	M	Germany	Agile Development	Intermédiaire										
+23	Person 23	25	M	Germany	Agile Development	Avancé										
+23	Person 23	25	M	Germany	Docker	Débutant										
+23	Person 23	25	M	Germany	Cloud Services (AWS, Azure)	Expert										
+24	Person 24	42	M	Germany	Docker	Avancé	BSc in Software Engineering	Université Paris-Sud	2004.0	System Analyst	Innovative Solutions	2014-2019	Développement d'API REST pour un système de paiement	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+24	Person 24	42	M	Germany	Agile Development	Avancé	MSc in Computer Science	University of Cambridge	2013.0					Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2018.0
+24	Person 24	42	M	Germany	SQL	Intermédiaire	MSc in Computer Science	MIT	2023.0							
+24	Person 24	42	M	Germany	React	Avancé										
+24	Person 24	42	M	Germany	Git	Avancé										
+24	Person 24	42	M	Germany	React	Intermédiaire										
+25	Person 25	50	F	USA	HTML/CSS	Avancé	BSc in Information Technology	University of Cambridge	2018.0	Project Manager	XYZ Corp	2009-2010	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2022.0
+25	Person 25	50	F	USA	Microservices	Intermédiaire	BSc in Software Engineering	Université de Toronto	2002.0	System Analyst	NextGen Technologies	2016-2021	Mise en place de CI/CD avec Jenkins			
+25	Person 25	50	F	USA	Python	Avancé	Diploma in Full Stack Development	Université de Toronto	2000.0	Data Scientist	XYZ Corp	2006-2011	Mise en place de CI/CD avec Jenkins			
+25	Person 25	50	F	USA						DevOps Engineer	XYZ Corp	2001-2006	Application mobile de commerce électronique			
+26	Person 26	43	M	France	Kubernetes	Débutant	MSc in Software Development	MIT	2000.0	Project Manager	Global Tech	2006-2011	Application mobile de commerce électronique	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2021.0
+26	Person 26	43	M	France	Docker	Débutant	MSc in Software Development	Stanford University	2004.0	Data Scientist	Global Tech	2017-2021	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2016.0
+26	Person 26	43	M	France	Cloud Services (AWS, Azure)	Avancé	BSc in Software Engineering	Stanford University	2022.0	System Analyst	Innovative Solutions	2008-2013	Application mobile de commerce électronique			
+26	Person 26	43	M	France						System Analyst	XYZ Corp	2015-2020	Application mobile de commerce électronique			
+27	Person 27	37	M	Germany	Git	Expert	Diploma in Full Stack Development	Université de Toronto	2016.0	System Analyst	Innovative Solutions	2000-2003	Migration vers le cloud	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+27	Person 27	37	M	Germany	C++	Intermédiaire	MSc in Computer Science	Université Paris-Sud	2005.0	System Analyst	XYZ Corp	2009-2012	Application mobile de commerce électronique	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+27	Person 27	37	M	Germany	Java	Débutant				Software Developer	ABC Inc	2007-2009	Système de gestion de contenu (CMS)	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2022.0
+27	Person 27	37	M	Germany						Software Developer	Innovative Solutions	2008-2011	Système de gestion de contenu (CMS)			
+28	Person 28	32	F	UK	Cloud Services (AWS, Azure)	Avancé	Diploma in Full Stack Development	Université Paris-Sud	2007.0	Data Scientist	Innovative Solutions	2003-2006	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2017.0
+28	Person 28	32	F	UK	HTML/CSS	Avancé	MSc in Computer Science	MIT	2010.0	DevOps Engineer	NextGen Technologies	2016-2020	Intégration d'une plateforme de microservices			
+28	Person 28	32	F	UK	Git	Expert				System Analyst	Innovative Solutions	2006-2011	Développement d'une application de gestion de tâches			
+28	Person 28	32	F	UK	Git	Avancé										
+28	Person 28	32	F	UK	Python	Avancé										
+28	Person 28	32	F	UK	Python	Expert										
+29	Person 29	60	M	Germany	Agile Development	Avancé	MSc in Computer Science	Stanford University	2015.0	DevOps Engineer	Innovative Solutions	2014-2018	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+29	Person 29	60	M	Germany	Docker	Débutant	MSc in Computer Science	Université Paris-Sud	2015.0	Project Manager	XYZ Corp	2013-2017	Système de gestion de contenu (CMS)			
+29	Person 29	60	M	Germany	Cloud Services (AWS, Azure)	Expert	MSc in Computer Science	Université de Toronto	2020.0	DevOps Engineer	Global Tech	2014-2018	Système de gestion de contenu (CMS)			
+29	Person 29	60	M	Germany	Python	Expert										
+29	Person 29	60	M	Germany	Docker	Intermédiaire										
+30	Person 30	32	M	USA	REST APIs	Débutant	BSc in Information Technology	MIT	2000.0	System Analyst	NextGen Technologies	2007-2008	Développement d'une application de gestion de tâches	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2020.0
+30	Person 30	32	M	USA	Agile Development	Avancé				Data Scientist	Innovative Solutions	2015-2017	Système de gestion des utilisateurs	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2021.0
+30	Person 30	32	M	USA	HTML/CSS	Avancé				System Analyst	NextGen Technologies	2019-2024	Développement d'une application de gestion de tâches	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+30	Person 30	32	M	USA	HTML/CSS	Avancé				Data Scientist	Innovative Solutions	2019-2021	Système de gestion de contenu (CMS)			
+30	Person 30	32	M	USA	Docker	Expert										
+30	Person 30	32	M	USA	DevOps	Expert										
+31	Person 31	58	M	Germany	Node.js	Avancé	Diploma in Full Stack Development	Université Paris-Sud	2008.0	Data Scientist	Global Tech	2000-2004	Intégration d'une plateforme de microservices	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2022.0
+31	Person 31	58	M	Germany	Agile Development	Débutant				Data Scientist	Global Tech	2003-2006	Migration vers le cloud	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2019.0
+31	Person 31	58	M	Germany	JavaScript	Expert				DevOps Engineer	ABC Inc	2004-2006	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2022.0
+31	Person 31	58	M	Germany						Data Scientist	ABC Inc	2017-2019	Migration vers le cloud			
+32	Person 32	43	F	Canada	Cloud Services (AWS, Azure)	Avancé	MSc in Computer Science	Stanford University	2014.0	Data Scientist	Innovative Solutions	2011-2012	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+32	Person 32	43	F	Canada	SQL	Expert										
+32	Person 32	43	F	Canada	React	Débutant										
+33	Person 33	37	M	Germany	Cloud Services (AWS, Azure)	Débutant	BSc in Information Technology	Université Paris-Sud	2013.0	DevOps Engineer	ABC Inc	2008-2011	Application mobile de commerce électronique	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2023.0
+33	Person 33	37	M	Germany	REST APIs	Avancé	MSc in Software Development	Stanford University	2019.0					Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2023.0
+33	Person 33	37	M	Germany	Java	Expert	MSc in Computer Science	MIT	2014.0					Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2015.0
+34	Person 34	37	M	Germany	JavaScript	Débutant	MSc in Computer Science	Université Paris-Sud	2002.0	Data Scientist	Innovative Solutions	2002-2006	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2016.0
+34	Person 34	37	M	Germany	Git	Débutant	MSc in Software Development	MIT	2016.0	Software Developer	ABC Inc	2018-2020	Mise en place de CI/CD avec Jenkins			
+34	Person 34	37	M	Germany	C++	Débutant	MSc in Computer Science	University of Cambridge	2019.0							
+34	Person 34	37	M	Germany	Kubernetes	Débutant										
+34	Person 34	37	M	Germany	Java	Avancé										
+34	Person 34	37	M	Germany	Docker	Débutant										
+34	Person 34	37	M	Germany	Node.js	Expert										
+35	Person 35	43	F	France	REST APIs	Intermédiaire	Diploma in Full Stack Development	MIT	2008.0	Project Manager	ABC Inc	2002-2005	Migration vers le cloud	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2019.0
+35	Person 35	43	F	France	REST APIs	Intermédiaire	MSc in Computer Science	University of Cambridge	2020.0					Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+35	Person 35	43	F	France	Java	Débutant								Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2017.0
+35	Person 35	43	F	France	Docker	Expert										
+35	Person 35	43	F	France	SQL	Intermédiaire										
+36	Person 36	38	M	France	Docker	Avancé	BSc in Software Engineering	University of Cambridge	2010.0	Software Developer	NextGen Technologies	2009-2012	Mise en place de CI/CD avec Jenkins	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2015.0
+36	Person 36	38	M	France	Microservices	Intermédiaire	MSc in Software Development	MIT	2014.0							
+36	Person 36	38	M	France	Kubernetes	Avancé	BSc in Software Engineering	Université Paris-Sud	2016.0							
+37	Person 37	48	F	USA	React	Débutant	BSc in Information Technology	Université Paris-Sud	2022.0	Data Scientist	XYZ Corp	2003-2007	Intégration d'une plateforme de microservices	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2015.0
+37	Person 37	48	F	USA	JavaScript	Avancé	MSc in Computer Science	University of Cambridge	2023.0	Software Developer	NextGen Technologies	2019-2020	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2015.0
+37	Person 37	48	F	USA	DevOps	Débutant								Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2015.0
+37	Person 37	48	F	USA	C++	Avancé										
+37	Person 37	48	F	USA	C++	Expert										
+37	Person 37	48	F	USA	Agile Development	Expert										
+38	Person 38	52	M	France	C++	Intermédiaire	BSc in Information Technology	MIT	2017.0	System Analyst	Global Tech	2019-2022	Migration vers le cloud	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+38	Person 38	52	M	France	Cloud Services (AWS, Azure)	Expert	BSc in Information Technology	Université Paris-Sud	2021.0	DevOps Engineer	XYZ Corp	2001-2004	Développement d'API REST pour un système de paiement	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2015.0
+38	Person 38	52	M	France	Node.js	Intermédiaire	BSc in Information Technology	Université de Toronto	2020.0							
+38	Person 38	52	M	France	Cloud Services (AWS, Azure)	Expert										
+38	Person 38	52	M	France	Java	Débutant										
+39	Person 39	50	F	USA	Cloud Services (AWS, Azure)	Avancé	BSc in Information Technology	University of Cambridge	2018.0	Project Manager	NextGen Technologies	2017-2018	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2020.0
+39	Person 39	50	F	USA	REST APIs	Intermédiaire	MSc in Software Development	Université Paris-Sud	2020.0	System Analyst	Innovative Solutions	2010-2015	Mise en place de CI/CD avec Jenkins	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2016.0
+39	Person 39	50	F	USA	C++	Intermédiaire								Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+40	Person 40	34	M	Canada	Docker	Débutant	MSc in Computer Science	MIT	2019.0	DevOps Engineer	Global Tech	2011-2012	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+40	Person 40	34	M	Canada	React	Intermédiaire	MSc in Software Development	MIT	2020.0	Software Developer	NextGen Technologies	2012-2014	Système de gestion des utilisateurs	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2022.0
+40	Person 40	34	M	Canada	C++	Expert	BSc in Software Engineering	University of Cambridge	2005.0					Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2019.0
+40	Person 40	34	M	Canada	REST APIs	Expert										
+41	Person 41	25	F	Canada	Docker	Intermédiaire	BSc in Software Engineering	Université Paris-Sud	2002.0	Project Manager	XYZ Corp	2016-2017	Intégration d'une plateforme de microservices	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2015.0
+41	Person 41	25	F	Canada	Microservices	Intermédiaire	BSc in Information Technology	Université Paris-Sud	2022.0	Software Developer	NextGen Technologies	2004-2007	Développement d'une application de gestion de tâches	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2023.0
+41	Person 41	25	F	Canada	Python	Expert										
+41	Person 41	25	F	Canada	React	Intermédiaire										
+41	Person 41	25	F	Canada	Docker	Avancé										
+41	Person 41	25	F	Canada	Kubernetes	Débutant										
+41	Person 41	25	F	Canada	Kubernetes	Débutant										
+42	Person 42	24	F	USA	Agile Development	Intermédiaire	MSc in Software Development	Université Paris-Sud	2001.0	Data Scientist	XYZ Corp	2004-2006	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2022.0
+42	Person 42	24	F	USA	Agile Development	Intermédiaire				Data Scientist	XYZ Corp	2013-2018	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+42	Person 42	24	F	USA	C++	Intermédiaire										
+42	Person 42	24	F	USA	REST APIs	Débutant										
+42	Person 42	24	F	USA	Cloud Services (AWS, Azure)	Débutant										
+42	Person 42	24	F	USA	Python	Intermédiaire										
+43	Person 43	38	F	UK	Java	Intermédiaire	BSc in Software Engineering	Stanford University	2009.0	Software Developer	Innovative Solutions	2014-2017	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+43	Person 43	38	F	UK	React	Expert	Diploma in Full Stack Development	University of Cambridge	2008.0	System Analyst	NextGen Technologies	2000-2005	Système de gestion de contenu (CMS)			
+43	Person 43	38	F	UK	Git	Avancé	Diploma in Full Stack Development	Université de Toronto	2001.0	Project Manager	Innovative Solutions	2013-2016	Développement d'une application de gestion de tâches			
+43	Person 43	38	F	UK	DevOps	Intermédiaire				Project Manager	NextGen Technologies	2011-2014	Mise en place de CI/CD avec Jenkins			
+43	Person 43	38	F	UK	DevOps	Débutant										
+43	Person 43	38	F	UK	HTML/CSS	Expert										
+44	Person 44	40	M	UK	Docker	Débutant	BSc in Information Technology	Stanford University	2006.0	System Analyst	XYZ Corp	2004-2006	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2020.0
+44	Person 44	40	M	UK	HTML/CSS	Intermédiaire	BSc in Information Technology	Université de Toronto	2015.0	DevOps Engineer	Innovative Solutions	2010-2013	Développement d'API REST pour un système de paiement			
+44	Person 44	40	M	UK	Agile Development	Expert				Project Manager	ABC Inc	2018-2022	Système de gestion de contenu (CMS)			
+44	Person 44	40	M	UK	DevOps	Expert										
+45	Person 45	57	F	France	Docker	Avancé	MSc in Software Development	University of Cambridge	2004.0	System Analyst	Innovative Solutions	2019-2023	Migration vers le cloud	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2021.0
+45	Person 45	57	F	France	React	Intermédiaire	BSc in Software Engineering	MIT	2023.0	Data Scientist	Global Tech	2005-2006	Application mobile de commerce électronique	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+45	Person 45	57	F	France	REST APIs	Expert				System Analyst	ABC Inc	2000-2005	Intégration d'une plateforme de microservices			
+45	Person 45	57	F	France	Kubernetes	Avancé										
+45	Person 45	57	F	France	Cloud Services (AWS, Azure)	Débutant										
+45	Person 45	57	F	France	Node.js	Intermédiaire										
+46	Person 46	34	F	France	Python	Débutant	BSc in Software Engineering	Université de Toronto	2008.0	DevOps Engineer	ABC Inc	2018-2021	Système de gestion des utilisateurs	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2021.0
+46	Person 46	34	F	France	SQL	Avancé				System Analyst	XYZ Corp	2006-2011	Système de gestion des utilisateurs	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+46	Person 46	34	F	France	Cloud Services (AWS, Azure)	Avancé				System Analyst	NextGen Technologies	2015-2019	Intégration d'une plateforme de microservices			
+46	Person 46	34	F	France	JavaScript	Avancé										
+46	Person 46	34	F	France	Cloud Services (AWS, Azure)	Expert										
+46	Person 46	34	F	France	REST APIs	Intermédiaire										
+47	Person 47	60	M	UK	JavaScript	Intermédiaire	BSc in Software Engineering	University of Cambridge	2018.0	System Analyst	NextGen Technologies	2016-2018	Application mobile de commerce électronique	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2019.0
+47	Person 47	60	M	UK	Kubernetes	Débutant	BSc in Software Engineering	Université Paris-Sud	2015.0					Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+47	Person 47	60	M	UK	C++	Intermédiaire	Diploma in Full Stack Development	Université de Toronto	2004.0							
+47	Person 47	60	M	UK	Git	Intermédiaire										
+48	Person 48	42	F	Germany	HTML/CSS	Expert	Diploma in Full Stack Development	Université Paris-Sud	2002.0	DevOps Engineer	Global Tech	2003-2004	Migration vers le cloud	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+48	Person 48	42	F	Germany	DevOps	Expert	BSc in Information Technology	MIT	2016.0	DevOps Engineer	NextGen Technologies	2016-2021	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+48	Person 48	42	F	Germany	Git	Intermédiaire				Software Developer	NextGen Technologies	2001-2006	Application mobile de commerce électronique			
+48	Person 48	42	F	Germany	Java	Expert				Project Manager	ABC Inc	2004-2005	Système de gestion de contenu (CMS)			
+48	Person 48	42	F	Germany	Python	Avancé										
+48	Person 48	42	F	Germany	React	Expert										
+49	Person 49	26	F	Canada	REST APIs	Intermédiaire	MSc in Software Development	University of Cambridge	2014.0	System Analyst	XYZ Corp	2020-2022	Migration vers le cloud	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2023.0
+49	Person 49	26	F	Canada	Git	Avancé				Data Scientist	ABC Inc	2004-2006	Développement d'API REST pour un système de paiement	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2018.0
+49	Person 49	26	F	Canada	SQL	Intermédiaire				Software Developer	Global Tech	2001-2006	Développement d'une application de gestion de tâches	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2021.0
+49	Person 49	26	F	Canada	C++	Intermédiaire				Software Developer	Global Tech	2018-2021	Développement d'une application de gestion de tâches			
+50	Person 50	50	M	Canada	React	Débutant	BSc in Information Technology	MIT	2011.0	DevOps Engineer	Innovative Solutions	2009-2012	Développement d'API REST pour un système de paiement	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2022.0
+50	Person 50	50	M	Canada	REST APIs	Expert				System Analyst	ABC Inc	2011-2014	Système de gestion des utilisateurs			
+50	Person 50	50	M	Canada	SQL	Avancé										
+50	Person 50	50	M	Canada	Kubernetes	Débutant										
+51	Person 51	59	F	France	Java	Débutant	MSc in Software Development	University of Cambridge	2008.0	Project Manager	NextGen Technologies	2011-2015	Développement d'une application de gestion de tâches	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+51	Person 51	59	F	France	Docker	Expert				Software Developer	ABC Inc	2011-2015	Développement d'API REST pour un système de paiement			
+51	Person 51	59	F	France	Node.js	Avancé				DevOps Engineer	Innovative Solutions	2006-2009	Intégration d'une plateforme de microservices			
+51	Person 51	59	F	France	Node.js	Intermédiaire				DevOps Engineer	NextGen Technologies	2018-2019	Développement d'API REST pour un système de paiement			
+51	Person 51	59	F	France	Microservices	Avancé										
+51	Person 51	59	F	France	Python	Débutant										
+52	Person 52	24	F	Germany	Microservices	Avancé	MSc in Computer Science	MIT	2014.0	System Analyst	Innovative Solutions	2000-2002	Développement d'API REST pour un système de paiement	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+52	Person 52	24	F	Germany	SQL	Avancé	MSc in Software Development	MIT	2018.0					Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2018.0
+52	Person 52	24	F	Germany	Agile Development	Avancé	MSc in Software Development	Stanford University	2013.0					Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+53	Person 53	38	M	Canada	React	Débutant	Diploma in Full Stack Development	MIT	2000.0	Project Manager	Innovative Solutions	2008-2012	Mise en place de CI/CD avec Jenkins	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+53	Person 53	38	M	Canada	JavaScript	Débutant								Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2017.0
+53	Person 53	38	M	Canada	Java	Expert								Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2015.0
+54	Person 54	41	F	UK	Python	Intermédiaire	Diploma in Full Stack Development	Stanford University	2008.0	DevOps Engineer	Global Tech	2010-2015	Système de gestion des utilisateurs	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2015.0
+54	Person 54	41	F	UK	DevOps	Avancé	MSc in Software Development	Université Paris-Sud	2006.0	Data Scientist	ABC Inc	2017-2020	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+54	Person 54	41	F	UK	Python	Avancé				DevOps Engineer	ABC Inc	2001-2004	Migration vers le cloud	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2016.0
+54	Person 54	41	F	UK	SQL	Débutant										
+54	Person 54	41	F	UK	Git	Débutant										
+55	Person 55	59	F	UK	Node.js	Débutant	MSc in Computer Science	Stanford University	2017.0	Software Developer	ABC Inc	2010-2012	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2021.0
+55	Person 55	59	F	UK	DevOps	Intermédiaire				Data Scientist	Innovative Solutions	2013-2017	Intégration d'une plateforme de microservices	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+55	Person 55	59	F	UK	Java	Expert				Data Scientist	Global Tech	2014-2018	Système de gestion de contenu (CMS)			
+55	Person 55	59	F	UK	REST APIs	Débutant				System Analyst	ABC Inc	2020-2023	Application mobile de commerce électronique			
+55	Person 55	59	F	UK	C++	Intermédiaire										
+55	Person 55	59	F	UK	Docker	Expert										
+56	Person 56	59	M	UK	Git	Débutant	MSc in Software Development	Université Paris-Sud	2023.0	Project Manager	NextGen Technologies	2005-2008	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2019.0
+56	Person 56	59	M	UK	Git	Intermédiaire	MSc in Computer Science	MIT	2021.0	Data Scientist	Global Tech	2002-2003	Intégration d'une plateforme de microservices	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2020.0
+56	Person 56	59	M	UK	JavaScript	Débutant	BSc in Information Technology	Université de Toronto	2001.0	System Analyst	XYZ Corp	2007-2011	Développement d'API REST pour un système de paiement			
+56	Person 56	59	M	UK	Node.js	Débutant										
+56	Person 56	59	M	UK	Microservices	Avancé										
+56	Person 56	59	M	UK	DevOps	Avancé										
+56	Person 56	59	M	UK	Git	Intermédiaire										
+57	Person 57	25	F	UK	Java	Débutant	MSc in Computer Science	Université Paris-Sud	2004.0	System Analyst	Global Tech	2014-2018	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+57	Person 57	25	F	UK	SQL	Expert				Data Scientist	ABC Inc	2002-2005	Application mobile de commerce électronique	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2018.0
+57	Person 57	25	F	UK	DevOps	Intermédiaire										
+58	Person 58	23	F	France	Docker	Avancé	Diploma in Full Stack Development	Université de Toronto	2000.0	DevOps Engineer	NextGen Technologies	2015-2020	Développement d'API REST pour un système de paiement	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2016.0
+58	Person 58	23	F	France	React	Intermédiaire				Data Scientist	NextGen Technologies	2018-2019	Migration vers le cloud			
+58	Person 58	23	F	France	Cloud Services (AWS, Azure)	Débutant				Software Developer	NextGen Technologies	2014-2019	Système de gestion de contenu (CMS)			
+58	Person 58	23	F	France						Software Developer	XYZ Corp	2001-2006	Développement d'une application de gestion de tâches			
+59	Person 59	27	F	France	React	Avancé	MSc in Computer Science	Université de Toronto	2013.0	Software Developer	XYZ Corp	2005-2010	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+59	Person 59	27	F	France	Microservices	Expert	MSc in Software Development	Université de Toronto	2021.0					Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2019.0
+59	Person 59	27	F	France	HTML/CSS	Débutant	MSc in Software Development	MIT	2009.0					Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+60	Person 60	55	F	USA	Microservices	Avancé	BSc in Information Technology	Stanford University	2023.0	Software Developer	Innovative Solutions	2020-2025	Intégration d'une plateforme de microservices	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2019.0
+60	Person 60	55	F	USA	React	Débutant				Project Manager	ABC Inc	2019-2020	Système de gestion des utilisateurs			
+60	Person 60	55	F	USA	React	Débutant										
+61	Person 61	38	M	USA	Git	Expert	BSc in Software Engineering	Stanford University	2017.0	Software Developer	Global Tech	2000-2005	Développement d'une application de gestion de tâches	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2020.0
+61	Person 61	38	M	USA	Git	Expert								Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+61	Person 61	38	M	USA	HTML/CSS	Intermédiaire								Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2022.0
+61	Person 61	38	M	USA	Git	Débutant										
+61	Person 61	38	M	USA	REST APIs	Intermédiaire										
+61	Person 61	38	M	USA	C++	Expert										
+62	Person 62	30	F	France	DevOps	Débutant	BSc in Information Technology	University of Cambridge	2011.0	Data Scientist	NextGen Technologies	2010-2012	Mise en place de CI/CD avec Jenkins	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+62	Person 62	30	F	France	Cloud Services (AWS, Azure)	Débutant	BSc in Software Engineering	Université Paris-Sud	2007.0	Software Developer	XYZ Corp	2004-2005	Système de gestion de contenu (CMS)	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+62	Person 62	30	F	France	JavaScript	Intermédiaire								Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+63	Person 63	55	M	UK	Docker	Avancé	MSc in Computer Science	Université de Toronto	2021.0	Software Developer	ABC Inc	2016-2018	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+63	Person 63	55	M	UK	Cloud Services (AWS, Azure)	Débutant	MSc in Computer Science	Université de Toronto	2012.0	Software Developer	XYZ Corp	2013-2015	Intégration d'une plateforme de microservices	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+63	Person 63	55	M	UK	SQL	Expert				Project Manager	NextGen Technologies	2002-2005	Développement d'API REST pour un système de paiement	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+63	Person 63	55	M	UK	React	Expert				Software Developer	Innovative Solutions	2002-2005	Développement d'une application de gestion de tâches			
+63	Person 63	55	M	UK	DevOps	Débutant										
+63	Person 63	55	M	UK	SQL	Débutant										
+63	Person 63	55	M	UK	Python	Expert										
+64	Person 64	31	M	USA	Cloud Services (AWS, Azure)	Débutant	BSc in Software Engineering	University of Cambridge	2010.0	DevOps Engineer	Global Tech	2014-2015	Migration vers le cloud	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2015.0
+64	Person 64	31	M	USA	Python	Intermédiaire	BSc in Software Engineering	Stanford University	2006.0	Software Developer	NextGen Technologies	2019-2021	Migration vers le cloud			
+64	Person 64	31	M	USA	Microservices	Avancé	BSc in Software Engineering	University of Cambridge	2004.0	System Analyst	ABC Inc	2008-2012	Mise en place de CI/CD avec Jenkins			
+64	Person 64	31	M	USA	React	Expert				System Analyst	NextGen Technologies	2014-2018	Application mobile de commerce électronique			
+64	Person 64	31	M	USA	DevOps	Expert										
+64	Person 64	31	M	USA	REST APIs	Avancé										
+65	Person 65	37	F	UK	Cloud Services (AWS, Azure)	Intermédiaire	MSc in Software Development	Université Paris-Sud	2015.0	Software Developer	Global Tech	2012-2017	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+65	Person 65	37	F	UK	SQL	Débutant	BSc in Software Engineering	MIT	2012.0					Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+65	Person 65	37	F	UK	Microservices	Intermédiaire	MSc in Software Development	Stanford University	2018.0					Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2022.0
+65	Person 65	37	F	UK	JavaScript	Expert										
+66	Person 66	57	M	UK	REST APIs	Intermédiaire	MSc in Software Development	University of Cambridge	2010.0	Software Developer	ABC Inc	2003-2005	Application mobile de commerce électronique	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+66	Person 66	57	M	UK	Cloud Services (AWS, Azure)	Intermédiaire	Diploma in Full Stack Development	Stanford University	2003.0	DevOps Engineer	Innovative Solutions	2019-2024	Intégration d'une plateforme de microservices	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2016.0
+66	Person 66	57	M	UK	Git	Intermédiaire	MSc in Computer Science	Université Paris-Sud	2012.0	System Analyst	NextGen Technologies	2007-2010	Migration vers le cloud	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+66	Person 66	57	M	UK	Java	Intermédiaire				System Analyst	Innovative Solutions	2012-2013	Intégration d'une plateforme de microservices			
+67	Person 67	27	F	France	HTML/CSS	Intermédiaire	BSc in Information Technology	Université de Toronto	2003.0	DevOps Engineer	Global Tech	2016-2019	Migration vers le cloud	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2019.0
+67	Person 67	27	F	France	Docker	Expert	MSc in Software Development	Université Paris-Sud	2002.0					Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2021.0
+67	Person 67	27	F	France	Java	Expert	MSc in Computer Science	MIT	2007.0					Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+67	Person 67	27	F	France	Java	Intermédiaire										
+68	Person 68	56	M	Canada	Agile Development	Débutant	MSc in Computer Science	Stanford University	2010.0	Software Developer	NextGen Technologies	2013-2016	Système de gestion de contenu (CMS)	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2016.0
+68	Person 68	56	M	Canada	DevOps	Avancé										
+68	Person 68	56	M	Canada	Node.js	Débutant										
+68	Person 68	56	M	Canada	Cloud Services (AWS, Azure)	Expert										
+68	Person 68	56	M	Canada	JavaScript	Avancé										
+68	Person 68	56	M	Canada	JavaScript	Expert										
+68	Person 68	56	M	Canada	REST APIs	Intermédiaire										
+69	Person 69	50	F	Germany	Kubernetes	Débutant	BSc in Information Technology	Université de Toronto	2017.0	Data Scientist	XYZ Corp	2008-2011	Application mobile de commerce électronique	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+69	Person 69	50	F	Germany	REST APIs	Débutant	MSc in Computer Science	Université de Toronto	2012.0							
+69	Person 69	50	F	Germany	React	Débutant	MSc in Computer Science	Stanford University	2017.0							
+69	Person 69	50	F	Germany	DevOps	Débutant										
+70	Person 70	60	M	France	DevOps	Intermédiaire	BSc in Software Engineering	University of Cambridge	2008.0	Data Scientist	ABC Inc	2007-2010	Intégration d'une plateforme de microservices	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2017.0
+70	Person 70	60	M	France	DevOps	Avancé	Diploma in Full Stack Development	Stanford University	2011.0	System Analyst	Global Tech	2005-2006	Migration vers le cloud	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+70	Person 70	60	M	France	REST APIs	Expert				Project Manager	NextGen Technologies	2019-2022	Intégration d'une plateforme de microservices			
+70	Person 70	60	M	France	C++	Expert				Project Manager	Global Tech	2010-2012	Migration vers le cloud			
+70	Person 70	60	M	France	Python	Débutant										
+70	Person 70	60	M	France	Cloud Services (AWS, Azure)	Avancé										
+70	Person 70	60	M	France	C++	Débutant										
+71	Person 71	28	F	Germany	Agile Development	Expert	MSc in Computer Science	University of Cambridge	2002.0	System Analyst	Innovative Solutions	2013-2017	Système de gestion de contenu (CMS)	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+71	Person 71	28	F	Germany	REST APIs	Expert	Diploma in Full Stack Development	University of Cambridge	2008.0	DevOps Engineer	Innovative Solutions	2005-2008	Migration vers le cloud	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+71	Person 71	28	F	Germany	SQL	Expert				Software Developer	NextGen Technologies	2013-2017	Développement d'API REST pour un système de paiement			
+71	Person 71	28	F	Germany	Docker	Expert				Software Developer	ABC Inc	2010-2015	Système de gestion de contenu (CMS)			
+72	Person 72	47	F	USA	Node.js	Expert	MSc in Computer Science	Université de Toronto	2003.0	System Analyst	XYZ Corp	2009-2012	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2017.0
+72	Person 72	47	F	USA	DevOps	Débutant	MSc in Software Development	MIT	2002.0					Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2020.0
+72	Person 72	47	F	USA	Docker	Intermédiaire										
+72	Person 72	47	F	USA	Microservices	Débutant										
+72	Person 72	47	F	USA	Microservices	Débutant										
+73	Person 73	24	M	France	Kubernetes	Débutant	MSc in Computer Science	Université Paris-Sud	2015.0	Software Developer	XYZ Corp	2007-2010	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2017.0
+73	Person 73	24	M	France	Node.js	Expert				System Analyst	ABC Inc	2016-2019	Développement d'API REST pour un système de paiement			
+73	Person 73	24	M	France	DevOps	Expert										
+73	Person 73	24	M	France	JavaScript	Débutant										
+73	Person 73	24	M	France	React	Avancé										
+74	Person 74	48	F	USA	Python	Avancé	BSc in Information Technology	Université de Toronto	2004.0	Data Scientist	ABC Inc	2019-2023	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+74	Person 74	48	F	USA	Cloud Services (AWS, Azure)	Avancé				Project Manager	Innovative Solutions	2004-2008	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2019.0
+74	Person 74	48	F	USA	Node.js	Avancé				Project Manager	Innovative Solutions	2008-2009	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2019.0
+75	Person 75	46	M	UK	React	Débutant	MSc in Computer Science	Université de Toronto	2009.0	Software Developer	XYZ Corp	2013-2018	Migration vers le cloud	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2016.0
+75	Person 75	46	M	UK	C++	Débutant	MSc in Software Development	MIT	2002.0	Project Manager	Innovative Solutions	2008-2012	Système de gestion des utilisateurs	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+75	Person 75	46	M	UK	Git	Intermédiaire	MSc in Computer Science	University of Cambridge	2013.0	Software Developer	Global Tech	2015-2016	Développement d'API REST pour un système de paiement	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+75	Person 75	46	M	UK	Python	Intermédiaire				System Analyst	XYZ Corp	2006-2008	Développement d'une application de gestion de tâches			
+75	Person 75	46	M	UK	HTML/CSS	Avancé										
+75	Person 75	46	M	UK	SQL	Débutant										
+76	Person 76	33	F	USA	Python	Intermédiaire	MSc in Software Development	MIT	2018.0	Data Scientist	XYZ Corp	2008-2011	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+76	Person 76	33	F	USA	Python	Avancé	MSc in Computer Science	Université de Toronto	2008.0	Data Scientist	ABC Inc	2007-2008	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2023.0
+76	Person 76	33	F	USA	Agile Development	Expert	BSc in Information Technology	Stanford University	2015.0	Data Scientist	NextGen Technologies	2014-2018	Application mobile de commerce électronique			
+76	Person 76	33	F	USA	Cloud Services (AWS, Azure)	Intermédiaire				System Analyst	ABC Inc	2014-2019	Intégration d'une plateforme de microservices			
+76	Person 76	33	F	USA	Git	Débutant										
+77	Person 77	50	M	Canada	Docker	Débutant	BSc in Software Engineering	University of Cambridge	2021.0	Software Developer	ABC Inc	2018-2023	Système de gestion des utilisateurs	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+77	Person 77	50	M	Canada	React	Avancé	Diploma in Full Stack Development	MIT	2012.0	DevOps Engineer	ABC Inc	2002-2005	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2019.0
+77	Person 77	50	M	Canada	SQL	Expert	BSc in Information Technology	Stanford University	2014.0	Data Scientist	NextGen Technologies	2015-2020	Développement d'API REST pour un système de paiement	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+77	Person 77	50	M	Canada	Python	Expert				System Analyst	Global Tech	2000-2005	Mise en place de CI/CD avec Jenkins			
+78	Person 78	32	M	Germany	Node.js	Avancé	MSc in Software Development	University of Cambridge	2004.0	DevOps Engineer	NextGen Technologies	2015-2017	Mise en place de CI/CD avec Jenkins	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2021.0
+78	Person 78	32	M	Germany	Python	Intermédiaire										
+78	Person 78	32	M	Germany	HTML/CSS	Débutant										
+79	Person 79	54	F	Germany	Microservices	Débutant	BSc in Software Engineering	Université Paris-Sud	2012.0	Software Developer	ABC Inc	2010-2014	Application mobile de commerce électronique	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2019.0
+79	Person 79	54	F	Germany	DevOps	Avancé				Data Scientist	XYZ Corp	2018-2020	Développement d'une application de gestion de tâches	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2015.0
+79	Person 79	54	F	Germany	REST APIs	Avancé				DevOps Engineer	ABC Inc	2015-2019	Développement d'une application de gestion de tâches			
+79	Person 79	54	F	Germany	HTML/CSS	Intermédiaire				Project Manager	ABC Inc	2009-2011	Mise en place de CI/CD avec Jenkins			
+79	Person 79	54	F	Germany	Microservices	Débutant										
+80	Person 80	29	F	USA	SQL	Expert	MSc in Computer Science	Université Paris-Sud	2016.0	DevOps Engineer	NextGen Technologies	2016-2017	Intégration d'une plateforme de microservices	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2020.0
+80	Person 80	29	F	USA	Java	Expert	BSc in Information Technology	Université Paris-Sud	2012.0	Data Scientist	Innovative Solutions	2008-2009	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+80	Person 80	29	F	USA	SQL	Expert				System Analyst	XYZ Corp	2002-2007	Migration vers le cloud	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+80	Person 80	29	F	USA	HTML/CSS	Débutant				System Analyst	ABC Inc	2004-2006	Système de gestion des utilisateurs			
+81	Person 81	59	M	France	REST APIs	Intermédiaire	BSc in Software Engineering	Stanford University	2001.0	Project Manager	XYZ Corp	2017-2018	Système de gestion de contenu (CMS)	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2023.0
+81	Person 81	59	M	France	HTML/CSS	Intermédiaire								Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2020.0
+81	Person 81	59	M	France	HTML/CSS	Intermédiaire										
+81	Person 81	59	M	France	React	Avancé										
+82	Person 82	48	F	UK	React	Avancé	MSc in Software Development	Université de Toronto	2006.0	System Analyst	NextGen Technologies	2014-2016	Migration vers le cloud	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2018.0
+82	Person 82	48	F	UK	Node.js	Débutant	MSc in Software Development	Université Paris-Sud	2006.0					Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+82	Person 82	48	F	UK	HTML/CSS	Intermédiaire	BSc in Information Technology	Université de Toronto	2012.0							
+82	Person 82	48	F	UK	Git	Avancé										
+82	Person 82	48	F	UK	Agile Development	Expert										
+82	Person 82	48	F	UK	Cloud Services (AWS, Azure)	Avancé										
+83	Person 83	38	M	France	Java	Avancé	MSc in Computer Science	University of Cambridge	2017.0	DevOps Engineer	Innovative Solutions	2012-2015	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2019.0
+83	Person 83	38	M	France	SQL	Expert	BSc in Information Technology	MIT	2002.0	Project Manager	Global Tech	2013-2014	Système de gestion des utilisateurs			
+83	Person 83	38	M	France	DevOps	Expert	BSc in Information Technology	Université de Toronto	2014.0	Project Manager	ABC Inc	2008-2010	Système de gestion de contenu (CMS)			
+83	Person 83	38	M	France	React	Avancé				Data Scientist	NextGen Technologies	2008-2012	Application mobile de commerce électronique			
+83	Person 83	38	M	France	Cloud Services (AWS, Azure)	Avancé										
+83	Person 83	38	M	France	JavaScript	Expert										
+84	Person 84	26	M	Canada	Cloud Services (AWS, Azure)	Intermédiaire	BSc in Software Engineering	Stanford University	2022.0	DevOps Engineer	ABC Inc	2019-2022	Système de gestion des utilisateurs	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+84	Person 84	26	M	Canada	DevOps	Avancé	MSc in Computer Science	MIT	2005.0	Software Developer	NextGen Technologies	2007-2010	Développement d'API REST pour un système de paiement			
+84	Person 84	26	M	Canada	JavaScript	Expert				System Analyst	XYZ Corp	2001-2004	Intégration d'une plateforme de microservices			
+84	Person 84	26	M	Canada	Kubernetes	Débutant				Software Developer	NextGen Technologies	2014-2016	Système de gestion des utilisateurs			
+84	Person 84	26	M	Canada	HTML/CSS	Débutant										
+85	Person 85	47	F	UK	DevOps	Intermédiaire	MSc in Computer Science	Stanford University	2021.0	Software Developer	NextGen Technologies	2013-2015	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2017.0
+85	Person 85	47	F	UK	Cloud Services (AWS, Azure)	Avancé	BSc in Information Technology	MIT	2017.0	DevOps Engineer	NextGen Technologies	2001-2006	Développement d'une application de gestion de tâches			
+85	Person 85	47	F	UK	Docker	Débutant	BSc in Software Engineering	MIT	2016.0	DevOps Engineer	Global Tech	2014-2016	Mise en place de CI/CD avec Jenkins			
+85	Person 85	47	F	UK	REST APIs	Intermédiaire				Data Scientist	ABC Inc	2020-2025	Intégration d'une plateforme de microservices			
+85	Person 85	47	F	UK	DevOps	Débutant										
+86	Person 86	39	M	Germany	React	Expert	Diploma in Full Stack Development	MIT	2015.0	Project Manager	NextGen Technologies	2020-2025	Mise en place de CI/CD avec Jenkins	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+86	Person 86	39	M	Germany	Agile Development	Débutant	MSc in Computer Science	Université Paris-Sud	2001.0					Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2015.0
+86	Person 86	39	M	Germany	HTML/CSS	Intermédiaire								Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2020.0
+86	Person 86	39	M	Germany	JavaScript	Avancé										
+87	Person 87	22	F	UK	REST APIs	Débutant	BSc in Software Engineering	Stanford University	2015.0	Software Developer	XYZ Corp	2005-2009	Système de gestion de contenu (CMS)	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2022.0
+87	Person 87	22	F	UK	Kubernetes	Débutant	MSc in Software Development	Stanford University	2002.0	Data Scientist	NextGen Technologies	2013-2018	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+87	Person 87	22	F	UK	Kubernetes	Débutant										
+87	Person 87	22	F	UK	Node.js	Avancé										
+87	Person 87	22	F	UK	SQL	Avancé										
+88	Person 88	32	F	USA	C++	Expert	BSc in Information Technology	MIT	2012.0	Data Scientist	XYZ Corp	2002-2007	Migration vers le cloud	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+88	Person 88	32	F	USA	Kubernetes	Expert	MSc in Software Development	Université de Toronto	2004.0							
+88	Person 88	32	F	USA	DevOps	Intermédiaire										
+88	Person 88	32	F	USA	HTML/CSS	Avancé										
+88	Person 88	32	F	USA	React	Intermédiaire										
+89	Person 89	41	F	Canada	Git	Intermédiaire	Diploma in Full Stack Development	University of Cambridge	2010.0	Software Developer	Global Tech	2000-2003	Intégration d'une plateforme de microservices	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2023.0
+89	Person 89	41	F	Canada	HTML/CSS	Expert	Diploma in Full Stack Development	University of Cambridge	2018.0	DevOps Engineer	Global Tech	2009-2011	Système de gestion de contenu (CMS)	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2019.0
+89	Person 89	41	F	Canada	Agile Development	Débutant	MSc in Software Development	Stanford University	2001.0	Data Scientist	XYZ Corp	2008-2012	Intégration d'une plateforme de microservices	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+90	Person 90	46	M	UK	C++	Expert	MSc in Software Development	Stanford University	2010.0	System Analyst	NextGen Technologies	2013-2016	Développement d'une application de gestion de tâches	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+90	Person 90	46	M	UK	Node.js	Débutant				Project Manager	XYZ Corp	2014-2015	Mise en place de CI/CD avec Jenkins			
+90	Person 90	46	M	UK	Cloud Services (AWS, Azure)	Débutant				Data Scientist	Innovative Solutions	2012-2015	Développement d'API REST pour un système de paiement			
+91	Person 91	29	M	Canada	DevOps	Intermédiaire	BSc in Information Technology	Stanford University	2014.0	DevOps Engineer	NextGen Technologies	2003-2007	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2019.0
+91	Person 91	29	M	Canada	Docker	Avancé	BSc in Information Technology	Université de Toronto	2015.0	Software Developer	XYZ Corp	2014-2017	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+91	Person 91	29	M	Canada	C++	Intermédiaire	BSc in Software Engineering	University of Cambridge	2004.0	Data Scientist	Innovative Solutions	2006-2007	Système de gestion des utilisateurs	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2016.0
+91	Person 91	29	M	Canada	Python	Avancé				Data Scientist	XYZ Corp	2013-2014	Intégration d'une plateforme de microservices			
+91	Person 91	29	M	Canada	C++	Débutant										
+92	Person 92	49	M	Germany	React	Intermédiaire	MSc in Computer Science	University of Cambridge	2009.0	System Analyst	Global Tech	2014-2016	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+92	Person 92	49	M	Germany	Node.js	Intermédiaire	BSc in Information Technology	MIT	2005.0	Project Manager	Innovative Solutions	2014-2019	Intégration d'une plateforme de microservices			
+92	Person 92	49	M	Germany	JavaScript	Avancé				System Analyst	ABC Inc	2017-2021	Migration vers le cloud			
+93	Person 93	35	M	Canada	Node.js	Intermédiaire	BSc in Information Technology	Université Paris-Sud	2011.0	System Analyst	XYZ Corp	2002-2004	Développement d'une application de gestion de tâches	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2017.0
+93	Person 93	35	M	Canada	Node.js	Avancé				Data Scientist	XYZ Corp	2015-2018	Migration vers le cloud			
+93	Person 93	35	M	Canada	Microservices	Expert										
+93	Person 93	35	M	Canada	Java	Avancé										
+93	Person 93	35	M	Canada	Java	Expert										
+93	Person 93	35	M	Canada	HTML/CSS	Avancé										
+94	Person 94	41	F	USA	Git	Expert	Diploma in Full Stack Development	Université de Toronto	2003.0	Software Developer	NextGen Technologies	2004-2006	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2018.0
+94	Person 94	41	F	USA	Node.js	Intermédiaire	MSc in Software Development	Université de Toronto	2017.0							
+94	Person 94	41	F	USA	React	Intermédiaire										
+94	Person 94	41	F	USA	DevOps	Avancé										
+95	Person 95	28	M	USA	HTML/CSS	Expert	BSc in Information Technology	Université Paris-Sud	2012.0	Data Scientist	NextGen Technologies	2002-2006	Système de gestion de contenu (CMS)	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2015.0
+95	Person 95	28	M	USA	HTML/CSS	Débutant	MSc in Computer Science	Université de Toronto	2004.0							
+95	Person 95	28	M	USA	Node.js	Débutant										
+95	Person 95	28	M	USA	HTML/CSS	Intermédiaire										
+95	Person 95	28	M	USA	Node.js	Expert										
+95	Person 95	28	M	USA	DevOps	Avancé										
+95	Person 95	28	M	USA	Kubernetes	Avancé										
+96	Person 96	44	M	UK	Java	Expert	Diploma in Full Stack Development	Stanford University	2006.0	Software Developer	XYZ Corp	2007-2012	Système de gestion des utilisateurs	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+96	Person 96	44	M	UK	Microservices	Intermédiaire				DevOps Engineer	NextGen Technologies	2016-2019	Application mobile de commerce électronique			
+96	Person 96	44	M	UK	HTML/CSS	Intermédiaire										
+96	Person 96	44	M	UK	DevOps	Débutant										
+96	Person 96	44	M	UK	DevOps	Intermédiaire										
+97	Person 97	37	F	UK	REST APIs	Expert	Diploma in Full Stack Development	Stanford University	2019.0	System Analyst	Innovative Solutions	2017-2018	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2020.0
+97	Person 97	37	F	UK	Git	Débutant				Data Scientist	Global Tech	2013-2018	Système de gestion des utilisateurs	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+97	Person 97	37	F	UK	HTML/CSS	Avancé				System Analyst	ABC Inc	2010-2014	Système de gestion de contenu (CMS)			
+97	Person 97	37	F	UK	HTML/CSS	Avancé										
+97	Person 97	37	F	UK	Microservices	Avancé										
+97	Person 97	37	F	UK	C++	Avancé										
+97	Person 97	37	F	UK	Node.js	Débutant										
+98	Person 98	39	M	USA	C++	Intermédiaire	Diploma in Full Stack Development	Université de Toronto	2012.0	Data Scientist	ABC Inc	2014-2016	Mise en place de CI/CD avec Jenkins	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2020.0
+98	Person 98	39	M	USA	REST APIs	Débutant				System Analyst	NextGen Technologies	2009-2012	Développement d'API REST pour un système de paiement			
+98	Person 98	39	M	USA	Cloud Services (AWS, Azure)	Débutant				Data Scientist	Innovative Solutions	2016-2021	Application mobile de commerce électronique			
+98	Person 98	39	M	USA	C++	Expert										
+98	Person 98	39	M	USA	HTML/CSS	Avancé										
+98	Person 98	39	M	USA	React	Expert										
+98	Person 98	39	M	USA	SQL	Avancé										
+99	Person 99	60	F	Canada	JavaScript	Expert	Diploma in Full Stack Development	Stanford University	2023.0	Software Developer	ABC Inc	2009-2010	Migration vers le cloud	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2019.0
+99	Person 99	60	F	Canada	Kubernetes	Débutant				System Analyst	NextGen Technologies	2005-2007	Système de gestion des utilisateurs			
+99	Person 99	60	F	Canada	C++	Avancé				Software Developer	NextGen Technologies	2013-2017	Développement d'une application de gestion de tâches			
+100	Person 100	35	M	France	React	Avancé	MSc in Computer Science	Stanford University	2002.0	Data Scientist	Innovative Solutions	2015-2016	Développement d'API REST pour un système de paiement	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2016.0
+100	Person 100	35	M	France	Kubernetes	Avancé	MSc in Computer Science	MIT	2016.0	Project Manager	NextGen Technologies	2013-2014	Développement d'API REST pour un système de paiement	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+100	Person 100	35	M	France	HTML/CSS	Avancé										
+101	Person 101	45	M	Canada	JavaScript	Expert	MSc in Computer Science	University of Cambridge	2017.0	Software Developer	XYZ Corp	2005-2009	Système de gestion des utilisateurs	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+101	Person 101	45	M	Canada	React	Expert	BSc in Software Engineering	MIT	2011.0	Software Developer	ABC Inc	2004-2005	Intégration d'une plateforme de microservices	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2019.0
+101	Person 101	45	M	Canada	SQL	Débutant	MSc in Computer Science	Université de Toronto	2023.0	System Analyst	NextGen Technologies	2000-2001	Mise en place de CI/CD avec Jenkins			
+101	Person 101	45	M	Canada						System Analyst	XYZ Corp	2004-2005	Intégration d'une plateforme de microservices			
+102	Person 102	43	M	UK	C++	Débutant	Diploma in Full Stack Development	Université Paris-Sud	2011.0	Software Developer	ABC Inc	2010-2015	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2017.0
+102	Person 102	43	M	UK	Node.js	Intermédiaire	BSc in Software Engineering	Université Paris-Sud	2010.0	System Analyst	XYZ Corp	2007-2011	Système de gestion de contenu (CMS)	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+102	Person 102	43	M	UK	Agile Development	Débutant								Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+103	Person 103	57	F	USA	REST APIs	Débutant	Diploma in Full Stack Development	Université Paris-Sud	2007.0	DevOps Engineer	NextGen Technologies	2000-2004	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2022.0
+103	Person 103	57	F	USA	Docker	Intermédiaire				System Analyst	XYZ Corp	2005-2006	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+103	Person 103	57	F	USA	JavaScript	Intermédiaire				DevOps Engineer	ABC Inc	2010-2012	Mise en place de CI/CD avec Jenkins	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+103	Person 103	57	F	USA	Java	Débutant				Data Scientist	ABC Inc	2010-2013	Application mobile de commerce électronique			
+103	Person 103	57	F	USA	Java	Avancé										
+103	Person 103	57	F	USA	Docker	Expert										
+103	Person 103	57	F	USA	React	Avancé										
+104	Person 104	25	M	USA	Microservices	Expert	Diploma in Full Stack Development	Université Paris-Sud	2013.0	System Analyst	Global Tech	2011-2016	Système de gestion de contenu (CMS)	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2019.0
+104	Person 104	25	M	USA	Microservices	Intermédiaire				Data Scientist	ABC Inc	2004-2006	Développement d'API REST pour un système de paiement			
+104	Person 104	25	M	USA	React	Intermédiaire				System Analyst	NextGen Technologies	2018-2020	Système de gestion des utilisateurs			
+104	Person 104	25	M	USA	Git	Avancé				System Analyst	NextGen Technologies	2015-2017	Intégration d'une plateforme de microservices			
+104	Person 104	25	M	USA	Agile Development	Expert										
+105	Person 105	23	M	USA	Microservices	Intermédiaire	MSc in Software Development	Université Paris-Sud	2005.0	Software Developer	Innovative Solutions	2010-2015	Système de gestion des utilisateurs	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+105	Person 105	23	M	USA	C++	Intermédiaire	MSc in Computer Science	University of Cambridge	2020.0	DevOps Engineer	Global Tech	2020-2022	Application mobile de commerce électronique	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2021.0
+105	Person 105	23	M	USA	REST APIs	Avancé	MSc in Computer Science	University of Cambridge	2021.0	Data Scientist	Innovative Solutions	2013-2016	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+105	Person 105	23	M	USA						System Analyst	Global Tech	2014-2019	Système de gestion de contenu (CMS)			
+106	Person 106	46	F	UK	REST APIs	Expert	MSc in Computer Science	MIT	2006.0	Data Scientist	ABC Inc	2009-2012	Mise en place de CI/CD avec Jenkins	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+106	Person 106	46	F	UK	Python	Intermédiaire	MSc in Software Development	University of Cambridge	2022.0	DevOps Engineer	NextGen Technologies	2006-2010	Application mobile de commerce électronique	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+106	Person 106	46	F	UK	C++	Intermédiaire	BSc in Software Engineering	MIT	2007.0	System Analyst	NextGen Technologies	2016-2018	Intégration d'une plateforme de microservices			
+106	Person 106	46	F	UK	React	Intermédiaire										
+106	Person 106	46	F	UK	Cloud Services (AWS, Azure)	Débutant										
+106	Person 106	46	F	UK	HTML/CSS	Intermédiaire										
+106	Person 106	46	F	UK	Agile Development	Débutant										
+107	Person 107	29	M	France	C++	Débutant	MSc in Software Development	MIT	2015.0	Project Manager	ABC Inc	2002-2003	Mise en place de CI/CD avec Jenkins	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+107	Person 107	29	M	France	Kubernetes	Avancé	BSc in Information Technology	Stanford University	2003.0	Project Manager	Global Tech	2002-2007	Mise en place de CI/CD avec Jenkins			
+107	Person 107	29	M	France	Kubernetes	Intermédiaire	BSc in Information Technology	MIT	2016.0	DevOps Engineer	XYZ Corp	2016-2018	Développement d'une application de gestion de tâches			
+107	Person 107	29	M	France	Docker	Intermédiaire										
+108	Person 108	45	M	Canada	C++	Intermédiaire	MSc in Computer Science	University of Cambridge	2001.0	Project Manager	ABC Inc	2007-2011	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2018.0
+108	Person 108	45	M	Canada	Git	Débutant	MSc in Software Development	Université de Toronto	2018.0	DevOps Engineer	NextGen Technologies	2017-2020	Mise en place de CI/CD avec Jenkins	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2021.0
+108	Person 108	45	M	Canada	Cloud Services (AWS, Azure)	Avancé										
+108	Person 108	45	M	Canada	React	Avancé										
+108	Person 108	45	M	Canada	Kubernetes	Avancé										
+108	Person 108	45	M	Canada	HTML/CSS	Débutant										
+109	Person 109	24	M	France	Cloud Services (AWS, Azure)	Débutant	MSc in Software Development	MIT	2004.0	DevOps Engineer	XYZ Corp	2012-2015	Mise en place de CI/CD avec Jenkins	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2021.0
+109	Person 109	24	M	France	C++	Expert	MSc in Computer Science	Stanford University	2019.0	Project Manager	NextGen Technologies	2014-2016	Migration vers le cloud			
+109	Person 109	24	M	France	HTML/CSS	Intermédiaire	BSc in Information Technology	MIT	2008.0							
+109	Person 109	24	M	France	Kubernetes	Intermédiaire										
+110	Person 110	31	M	Canada	C++	Expert	BSc in Software Engineering	Université de Toronto	2013.0	System Analyst	ABC Inc	2000-2004	Développement d'API REST pour un système de paiement	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+110	Person 110	31	M	Canada	Cloud Services (AWS, Azure)	Intermédiaire	Diploma in Full Stack Development	Stanford University	2011.0	Data Scientist	ABC Inc	2015-2019	Développement d'API REST pour un système de paiement			
+110	Person 110	31	M	Canada	DevOps	Avancé				Data Scientist	Global Tech	2014-2017	Système de gestion de contenu (CMS)			
+110	Person 110	31	M	Canada	SQL	Intermédiaire				Data Scientist	Innovative Solutions	2013-2017	Système de gestion de contenu (CMS)			
+110	Person 110	31	M	Canada	Java	Avancé										
+111	Person 111	49	M	USA	Agile Development	Débutant	Diploma in Full Stack Development	University of Cambridge	2015.0	Data Scientist	NextGen Technologies	2007-2012	Migration vers le cloud	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2015.0
+111	Person 111	49	M	USA	Microservices	Expert	BSc in Information Technology	Université de Toronto	2012.0	Software Developer	Global Tech	2001-2006	Développement d'API REST pour un système de paiement	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+111	Person 111	49	M	USA	React	Avancé				Software Developer	XYZ Corp	2014-2019	Mise en place de CI/CD avec Jenkins	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+111	Person 111	49	M	USA	REST APIs	Avancé				Data Scientist	Global Tech	2016-2021	Application mobile de commerce électronique			
+111	Person 111	49	M	USA	JavaScript	Expert										
+112	Person 112	22	F	France	Python	Intermédiaire	Diploma in Full Stack Development	Université de Toronto	2022.0	DevOps Engineer	XYZ Corp	2004-2006	Développement d'API REST pour un système de paiement	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+112	Person 112	22	F	France	HTML/CSS	Avancé	MSc in Computer Science	MIT	2012.0	Project Manager	Innovative Solutions	2018-2021	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2016.0
+112	Person 112	22	F	France	JavaScript	Avancé				Software Developer	Global Tech	2006-2009	Intégration d'une plateforme de microservices	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2017.0
+112	Person 112	22	F	France	React	Avancé				System Analyst	Innovative Solutions	2004-2005	Mise en place de CI/CD avec Jenkins			
+112	Person 112	22	F	France	Python	Avancé										
+113	Person 113	58	F	USA	Cloud Services (AWS, Azure)	Avancé	BSc in Software Engineering	Université de Toronto	2014.0	Data Scientist	ABC Inc	2017-2022	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2022.0
+113	Person 113	58	F	USA	Agile Development	Intermédiaire	Diploma in Full Stack Development	Université Paris-Sud	2015.0	Software Developer	Global Tech	2012-2013	Intégration d'une plateforme de microservices			
+113	Person 113	58	F	USA	JavaScript	Intermédiaire	BSc in Information Technology	Université de Toronto	2000.0	Project Manager	NextGen Technologies	2008-2009	Intégration d'une plateforme de microservices			
+113	Person 113	58	F	USA	REST APIs	Débutant				DevOps Engineer	Global Tech	2012-2017	Migration vers le cloud			
+114	Person 114	22	M	Germany	Node.js	Intermédiaire	MSc in Computer Science	University of Cambridge	2010.0	Software Developer	Global Tech	2006-2011	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2015.0
+114	Person 114	22	M	Germany	Docker	Expert	MSc in Computer Science	Stanford University	2023.0	Data Scientist	Innovative Solutions	2013-2014	Migration vers le cloud			
+114	Person 114	22	M	Germany	Agile Development	Avancé	BSc in Software Engineering	MIT	2018.0	System Analyst	XYZ Corp	2019-2022	Développement d'une application de gestion de tâches			
+114	Person 114	22	M	Germany	Git	Intermédiaire										
+114	Person 114	22	M	Germany	Git	Intermédiaire										
+114	Person 114	22	M	Germany	JavaScript	Expert										
+115	Person 115	29	F	Germany	Git	Intermédiaire	Diploma in Full Stack Development	University of Cambridge	2023.0	System Analyst	Innovative Solutions	2012-2016	Application mobile de commerce électronique	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+115	Person 115	29	F	Germany	DevOps	Débutant								Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+115	Person 115	29	F	Germany	Node.js	Intermédiaire								Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+115	Person 115	29	F	Germany	Python	Intermédiaire										
+116	Person 116	27	M	USA	Docker	Débutant	BSc in Software Engineering	Université Paris-Sud	2018.0	DevOps Engineer	NextGen Technologies	2002-2003	Système de gestion de contenu (CMS)	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+116	Person 116	27	M	USA	SQL	Intermédiaire	Diploma in Full Stack Development	Stanford University	2013.0	Software Developer	XYZ Corp	2002-2003	Mise en place de CI/CD avec Jenkins	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2020.0
+116	Person 116	27	M	USA	C++	Expert	Diploma in Full Stack Development	MIT	2013.0	System Analyst	XYZ Corp	2007-2008	Développement d'API REST pour un système de paiement			
+116	Person 116	27	M	USA	Agile Development	Expert				System Analyst	ABC Inc	2019-2021	Migration vers le cloud			
+117	Person 117	59	M	USA	Kubernetes	Intermédiaire	BSc in Software Engineering	Université de Toronto	2018.0	System Analyst	ABC Inc	2007-2008	Développement d'API REST pour un système de paiement	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2018.0
+117	Person 117	59	M	USA	Node.js	Intermédiaire	BSc in Software Engineering	Université de Toronto	2007.0					Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+117	Person 117	59	M	USA	Agile Development	Avancé	Diploma in Full Stack Development	University of Cambridge	2015.0							
+117	Person 117	59	M	USA	SQL	Débutant										
+117	Person 117	59	M	USA	SQL	Expert										
+117	Person 117	59	M	USA	Agile Development	Expert										
+118	Person 118	24	F	USA	Kubernetes	Expert	Diploma in Full Stack Development	Université de Toronto	2001.0	Project Manager	XYZ Corp	2015-2017	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2018.0
+118	Person 118	24	F	USA	Java	Avancé	Diploma in Full Stack Development	Université Paris-Sud	2016.0	System Analyst	NextGen Technologies	2016-2021	Développement d'API REST pour un système de paiement			
+118	Person 118	24	F	USA	Microservices	Expert	MSc in Computer Science	Stanford University	2020.0							
+118	Person 118	24	F	USA	Java	Avancé										
+118	Person 118	24	F	USA	DevOps	Débutant										
+118	Person 118	24	F	USA	C++	Intermédiaire										
+118	Person 118	24	F	USA	Kubernetes	Expert										
+119	Person 119	54	F	USA	Cloud Services (AWS, Azure)	Débutant	MSc in Software Development	University of Cambridge	2011.0	Data Scientist	Global Tech	2001-2005	Système de gestion de contenu (CMS)	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+119	Person 119	54	F	USA	React	Expert	BSc in Software Engineering	Stanford University	2013.0	DevOps Engineer	NextGen Technologies	2017-2018	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+119	Person 119	54	F	USA	Kubernetes	Expert	BSc in Information Technology	Stanford University	2006.0					Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+119	Person 119	54	F	USA	Git	Expert										
+119	Person 119	54	F	USA	Node.js	Intermédiaire										
+119	Person 119	54	F	USA	SQL	Avancé										
+120	Person 120	52	M	UK	REST APIs	Avancé	MSc in Computer Science	Université Paris-Sud	2013.0	System Analyst	ABC Inc	2015-2017	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2023.0
+120	Person 120	52	M	UK	Agile Development	Débutant	Diploma in Full Stack Development	Université de Toronto	2021.0					Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2019.0
+120	Person 120	52	M	UK	React	Expert	Diploma in Full Stack Development	Université de Toronto	2017.0							
+120	Person 120	52	M	UK	Cloud Services (AWS, Azure)	Avancé										
+121	Person 121	51	M	France	JavaScript	Intermédiaire	Diploma in Full Stack Development	Université de Toronto	2008.0	System Analyst	XYZ Corp	2016-2019	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2023.0
+121	Person 121	51	M	France	Java	Intermédiaire	BSc in Information Technology	Université de Toronto	2006.0							
+121	Person 121	51	M	France	SQL	Expert	BSc in Software Engineering	Université de Toronto	2023.0							
+121	Person 121	51	M	France	Agile Development	Avancé										
+121	Person 121	51	M	France	DevOps	Débutant										
+121	Person 121	51	M	France	C++	Débutant										
+122	Person 122	26	M	France	Node.js	Débutant	Diploma in Full Stack Development	Stanford University	2000.0	Project Manager	ABC Inc	2018-2019	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2020.0
+122	Person 122	26	M	France	Agile Development	Débutant	Diploma in Full Stack Development	MIT	2012.0	System Analyst	NextGen Technologies	2008-2009	Application mobile de commerce électronique	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+122	Person 122	26	M	France	SQL	Intermédiaire				DevOps Engineer	XYZ Corp	2014-2019	Développement d'une application de gestion de tâches			
+122	Person 122	26	M	France	Microservices	Débutant				Software Developer	NextGen Technologies	2012-2014	Application mobile de commerce électronique			
+122	Person 122	26	M	France	DevOps	Débutant										
+122	Person 122	26	M	France	JavaScript	Expert										
+123	Person 123	46	F	Germany	DevOps	Débutant	BSc in Software Engineering	MIT	2022.0	DevOps Engineer	XYZ Corp	2015-2019	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2018.0
+123	Person 123	46	F	Germany	DevOps	Débutant	MSc in Software Development	Stanford University	2023.0					Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2017.0
+123	Person 123	46	F	Germany	JavaScript	Expert	BSc in Information Technology	Université Paris-Sud	2019.0					Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2022.0
+123	Person 123	46	F	Germany	Microservices	Débutant										
+123	Person 123	46	F	Germany	HTML/CSS	Expert										
+123	Person 123	46	F	Germany	Git	Expert										
+124	Person 124	47	M	UK	Kubernetes	Débutant	MSc in Software Development	Université Paris-Sud	2021.0	DevOps Engineer	NextGen Technologies	2002-2007	Application mobile de commerce électronique	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2019.0
+124	Person 124	47	M	UK	Microservices	Expert	Diploma in Full Stack Development	Université Paris-Sud	2013.0	Software Developer	NextGen Technologies	2010-2015	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2018.0
+124	Person 124	47	M	UK	Docker	Débutant				Data Scientist	Global Tech	2018-2021	Mise en place de CI/CD avec Jenkins	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+124	Person 124	47	M	UK	JavaScript	Avancé										
+124	Person 124	47	M	UK	Node.js	Intermédiaire										
+124	Person 124	47	M	UK	JavaScript	Avancé										
+124	Person 124	47	M	UK	Git	Débutant										
+125	Person 125	49	M	Germany	Microservices	Débutant	MSc in Software Development	MIT	2004.0	Data Scientist	ABC Inc	2007-2008	Développement d'API REST pour un système de paiement	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+125	Person 125	49	M	Germany	SQL	Expert				DevOps Engineer	Global Tech	2019-2024	Mise en place de CI/CD avec Jenkins			
+125	Person 125	49	M	Germany	Docker	Avancé				DevOps Engineer	Global Tech	2001-2003	Développement d'une application de gestion de tâches			
+125	Person 125	49	M	Germany	Docker	Avancé										
+125	Person 125	49	M	Germany	HTML/CSS	Intermédiaire										
+125	Person 125	49	M	Germany	Node.js	Avancé										
+126	Person 126	60	F	Canada	DevOps	Intermédiaire	MSc in Software Development	University of Cambridge	2014.0	Data Scientist	Global Tech	2006-2008	Intégration d'une plateforme de microservices	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2023.0
+126	Person 126	60	F	Canada	C++	Débutant	BSc in Information Technology	Université de Toronto	2003.0	Software Developer	Global Tech	2008-2010	Application mobile de commerce électronique			
+126	Person 126	60	F	Canada	Node.js	Expert	BSc in Software Engineering	Université de Toronto	2014.0	Data Scientist	NextGen Technologies	2006-2011	Système de gestion de contenu (CMS)			
+127	Person 127	30	M	UK	Docker	Débutant	BSc in Information Technology	Université de Toronto	2003.0	Software Developer	Innovative Solutions	2017-2019	Développement d'API REST pour un système de paiement	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+127	Person 127	30	M	UK	Cloud Services (AWS, Azure)	Intermédiaire	MSc in Software Development	Université de Toronto	2001.0	Project Manager	Innovative Solutions	2011-2014	Intégration d'une plateforme de microservices	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2018.0
+127	Person 127	30	M	UK	Git	Avancé				Software Developer	XYZ Corp	2003-2007	Développement d'une application de gestion de tâches			
+127	Person 127	30	M	UK	Node.js	Débutant										
+127	Person 127	30	M	UK	Git	Débutant										
+128	Person 128	35	M	Germany	REST APIs	Intermédiaire	Diploma in Full Stack Development	Stanford University	2018.0	DevOps Engineer	ABC Inc	2020-2024	Système de gestion de contenu (CMS)	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2018.0
+128	Person 128	35	M	Germany	Agile Development	Expert	Diploma in Full Stack Development	Université de Toronto	2007.0	Data Scientist	XYZ Corp	2010-2015	Système de gestion des utilisateurs			
+128	Person 128	35	M	Germany	Kubernetes	Avancé										
+128	Person 128	35	M	Germany	C++	Expert										
+128	Person 128	35	M	Germany	Docker	Débutant										
+128	Person 128	35	M	Germany	Git	Avancé										
+128	Person 128	35	M	Germany	C++	Avancé										
+129	Person 129	51	F	USA	DevOps	Intermédiaire	BSc in Software Engineering	Université Paris-Sud	2012.0	Software Developer	Innovative Solutions	2012-2015	Système de gestion des utilisateurs	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+129	Person 129	51	F	USA	C++	Débutant	BSc in Software Engineering	University of Cambridge	2010.0	DevOps Engineer	ABC Inc	2005-2010	Application mobile de commerce électronique	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2019.0
+129	Person 129	51	F	USA	SQL	Intermédiaire	MSc in Software Development	MIT	2015.0	Software Developer	ABC Inc	2018-2022	Développement d'une application de gestion de tâches	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2019.0
+129	Person 129	51	F	USA	HTML/CSS	Avancé										
+130	Person 130	55	M	UK	Java	Débutant	MSc in Software Development	Stanford University	2017.0	System Analyst	ABC Inc	2000-2004	Développement d'API REST pour un système de paiement	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+130	Person 130	55	M	UK	Python	Expert	MSc in Software Development	Université de Toronto	2004.0	System Analyst	NextGen Technologies	2017-2019	Développement d'une application de gestion de tâches	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2016.0
+130	Person 130	55	M	UK	SQL	Intermédiaire	Diploma in Full Stack Development	Université Paris-Sud	2013.0	Software Developer	NextGen Technologies	2005-2006	Système de gestion de contenu (CMS)	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2018.0
+130	Person 130	55	M	UK	Python	Expert										
+130	Person 130	55	M	UK	Cloud Services (AWS, Azure)	Intermédiaire										
+131	Person 131	41	F	UK	Python	Intermédiaire	BSc in Information Technology	MIT	2003.0	System Analyst	Innovative Solutions	2020-2025	Intégration d'une plateforme de microservices	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2015.0
+131	Person 131	41	F	UK	React	Expert	BSc in Software Engineering	University of Cambridge	2016.0	Data Scientist	XYZ Corp	2010-2011	Système de gestion de contenu (CMS)			
+131	Person 131	41	F	UK	Node.js	Avancé	MSc in Computer Science	MIT	2002.0							
+131	Person 131	41	F	UK	DevOps	Expert										
+131	Person 131	41	F	UK	HTML/CSS	Avancé										
+131	Person 131	41	F	UK	React	Intermédiaire										
+131	Person 131	41	F	UK	Docker	Avancé										
+132	Person 132	55	M	USA	JavaScript	Débutant	BSc in Information Technology	MIT	2016.0	System Analyst	Innovative Solutions	2018-2021	Système de gestion des utilisateurs	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2022.0
+132	Person 132	55	M	USA	Agile Development	Expert	MSc in Software Development	Université de Toronto	2015.0	Data Scientist	NextGen Technologies	2005-2010	Intégration d'une plateforme de microservices			
+132	Person 132	55	M	USA	C++	Intermédiaire	MSc in Software Development	University of Cambridge	2019.0	System Analyst	Innovative Solutions	2001-2004	Système de gestion des utilisateurs			
+132	Person 132	55	M	USA	Python	Avancé										
+132	Person 132	55	M	USA	React	Intermédiaire										
+132	Person 132	55	M	USA	DevOps	Avancé										
+133	Person 133	29	F	France	Node.js	Intermédiaire	MSc in Computer Science	University of Cambridge	2002.0	Data Scientist	XYZ Corp	2018-2019	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2022.0
+133	Person 133	29	F	France	Kubernetes	Expert	BSc in Information Technology	Université Paris-Sud	2020.0	Software Developer	Global Tech	2020-2025	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2018.0
+133	Person 133	29	F	France	Docker	Intermédiaire	MSc in Software Development	Stanford University	2020.0					Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2022.0
+133	Person 133	29	F	France	Kubernetes	Expert										
+133	Person 133	29	F	France	Node.js	Intermédiaire										
+134	Person 134	60	F	Canada	Cloud Services (AWS, Azure)	Avancé	BSc in Information Technology	Stanford University	2006.0	Software Developer	Innovative Solutions	2018-2019	Application mobile de commerce électronique	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2021.0
+134	Person 134	60	F	Canada	Agile Development	Débutant	Diploma in Full Stack Development	Université Paris-Sud	2020.0					Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2022.0
+134	Person 134	60	F	Canada	DevOps	Intermédiaire	MSc in Software Development	MIT	2015.0							
+134	Person 134	60	F	Canada	Git	Débutant										
+134	Person 134	60	F	Canada	Docker	Débutant										
+134	Person 134	60	F	Canada	HTML/CSS	Intermédiaire										
+134	Person 134	60	F	Canada	Agile Development	Expert										
+135	Person 135	28	M	France	Microservices	Expert	MSc in Computer Science	Université Paris-Sud	2015.0	Data Scientist	NextGen Technologies	2013-2015	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2018.0
+135	Person 135	28	M	France	JavaScript	Intermédiaire	MSc in Software Development	Université Paris-Sud	2020.0	Software Developer	Global Tech	2019-2023	Développement d'une application de gestion de tâches			
+135	Person 135	28	M	France	Python	Intermédiaire				System Analyst	Global Tech	2006-2011	Développement d'API REST pour un système de paiement			
+136	Person 136	30	F	Canada	Cloud Services (AWS, Azure)	Débutant	BSc in Information Technology	Université de Toronto	2023.0	DevOps Engineer	Global Tech	2010-2011	Développement d'API REST pour un système de paiement	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2016.0
+136	Person 136	30	F	Canada	Agile Development	Débutant	BSc in Information Technology	Université de Toronto	2019.0					Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2015.0
+136	Person 136	30	F	Canada	Java	Expert								Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2019.0
+136	Person 136	30	F	Canada	Docker	Débutant										
+136	Person 136	30	F	Canada	JavaScript	Avancé										
+137	Person 137	30	F	Germany	REST APIs	Avancé	BSc in Information Technology	Université de Toronto	2018.0	DevOps Engineer	Innovative Solutions	2006-2007	Système de gestion de contenu (CMS)	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2019.0
+137	Person 137	30	F	Germany	JavaScript	Expert	BSc in Information Technology	Université de Toronto	2014.0	System Analyst	Innovative Solutions	2010-2012	Système de gestion de contenu (CMS)			
+137	Person 137	30	F	Germany	React	Intermédiaire				Project Manager	Innovative Solutions	2018-2021	Système de gestion de contenu (CMS)			
+137	Person 137	30	F	Germany	C++	Débutant										
+138	Person 138	33	M	USA	SQL	Expert	BSc in Software Engineering	Stanford University	2010.0	System Analyst	Innovative Solutions	2010-2011	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+138	Person 138	33	M	USA	Cloud Services (AWS, Azure)	Expert										
+138	Person 138	33	M	USA	React	Expert										
+138	Person 138	33	M	USA	Microservices	Intermédiaire										
+139	Person 139	32	M	Canada	Kubernetes	Intermédiaire	MSc in Computer Science	MIT	2014.0	Project Manager	NextGen Technologies	2020-2024	Développement d'API REST pour un système de paiement	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+139	Person 139	32	M	Canada	Cloud Services (AWS, Azure)	Débutant	Diploma in Full Stack Development	Université de Toronto	2015.0	Data Scientist	Innovative Solutions	2018-2023	Intégration d'une plateforme de microservices	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+139	Person 139	32	M	Canada	Node.js	Expert	BSc in Information Technology	University of Cambridge	2020.0	DevOps Engineer	Global Tech	2012-2015	Système de gestion de contenu (CMS)			
+139	Person 139	32	M	Canada	Kubernetes	Expert				System Analyst	NextGen Technologies	2006-2009	Intégration d'une plateforme de microservices			
+139	Person 139	32	M	Canada	SQL	Intermédiaire										
+139	Person 139	32	M	Canada	C++	Avancé										
+140	Person 140	31	M	Canada	Docker	Débutant	BSc in Software Engineering	University of Cambridge	2016.0	Project Manager	ABC Inc	2007-2008	Migration vers le cloud	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+140	Person 140	31	M	Canada	SQL	Débutant				DevOps Engineer	Global Tech	2001-2002	Système de gestion des utilisateurs	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2015.0
+140	Person 140	31	M	Canada	Node.js	Débutant				Project Manager	Global Tech	2003-2005	Mise en place de CI/CD avec Jenkins	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+140	Person 140	31	M	Canada						Software Developer	NextGen Technologies	2008-2010	Mise en place de CI/CD avec Jenkins			
+141	Person 141	45	F	Germany	Python	Intermédiaire	MSc in Computer Science	Université de Toronto	2008.0	DevOps Engineer	XYZ Corp	2018-2022	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+141	Person 141	45	F	Germany	DevOps	Expert	MSc in Computer Science	University of Cambridge	2016.0							
+141	Person 141	45	F	Germany	JavaScript	Avancé										
+141	Person 141	45	F	Germany	Agile Development	Expert										
+141	Person 141	45	F	Germany	Docker	Intermédiaire										
+141	Person 141	45	F	Germany	C++	Intermédiaire										
+142	Person 142	42	F	France	Git	Débutant	MSc in Software Development	Université de Toronto	2006.0	DevOps Engineer	XYZ Corp	2014-2015	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2016.0
+142	Person 142	42	F	France	Agile Development	Avancé				Software Developer	Global Tech	2006-2007	Développement d'une application de gestion de tâches			
+142	Person 142	42	F	France	Node.js	Débutant				System Analyst	Innovative Solutions	2011-2014	Développement d'API REST pour un système de paiement			
+142	Person 142	42	F	France	SQL	Débutant				Software Developer	XYZ Corp	2007-2011	Intégration d'une plateforme de microservices			
+142	Person 142	42	F	France	DevOps	Intermédiaire										
+142	Person 142	42	F	France	Microservices	Intermédiaire										
+142	Person 142	42	F	France	Cloud Services (AWS, Azure)	Débutant										
+143	Person 143	35	F	France	Git	Intermédiaire	MSc in Software Development	Université Paris-Sud	2019.0	Software Developer	ABC Inc	2019-2023	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+143	Person 143	35	F	France	C++	Débutant	MSc in Computer Science	MIT	2009.0	Project Manager	NextGen Technologies	2016-2020	Développement d'une application de gestion de tâches			
+143	Person 143	35	F	France	SQL	Avancé										
+143	Person 143	35	F	France	Kubernetes	Expert										
+143	Person 143	35	F	France	REST APIs	Intermédiaire										
+144	Person 144	50	M	Canada	Node.js	Intermédiaire	BSc in Information Technology	Stanford University	2006.0	Data Scientist	Innovative Solutions	2020-2025	Développement d'API REST pour un système de paiement	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2018.0
+144	Person 144	50	M	Canada	React	Avancé				Software Developer	Innovative Solutions	2003-2005	Système de gestion des utilisateurs			
+144	Person 144	50	M	Canada	JavaScript	Intermédiaire				Software Developer	ABC Inc	2013-2015	Intégration d'une plateforme de microservices			
+144	Person 144	50	M	Canada	JavaScript	Débutant				Software Developer	Global Tech	2014-2018	Application mobile de commerce électronique			
+145	Person 145	26	F	UK	Cloud Services (AWS, Azure)	Expert	MSc in Software Development	Stanford University	2007.0	Data Scientist	Global Tech	2004-2007	Mise en place de CI/CD avec Jenkins	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2015.0
+145	Person 145	26	F	UK	C++	Débutant	MSc in Software Development	MIT	2003.0	DevOps Engineer	XYZ Corp	2006-2007	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+145	Person 145	26	F	UK	Python	Avancé										
+145	Person 145	26	F	UK	Cloud Services (AWS, Azure)	Avancé										
+145	Person 145	26	F	UK	Docker	Intermédiaire										
+145	Person 145	26	F	UK	REST APIs	Débutant										
+146	Person 146	37	F	USA	JavaScript	Avancé	Diploma in Full Stack Development	MIT	2014.0	Project Manager	NextGen Technologies	2001-2003	Système de gestion des utilisateurs	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2021.0
+146	Person 146	37	F	USA	HTML/CSS	Avancé	Diploma in Full Stack Development	Université Paris-Sud	2004.0	Software Developer	Innovative Solutions	2011-2015	Développement d'API REST pour un système de paiement	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2022.0
+146	Person 146	37	F	USA	JavaScript	Avancé	MSc in Software Development	Stanford University	2012.0							
+147	Person 147	30	M	Germany	JavaScript	Débutant	MSc in Computer Science	University of Cambridge	2014.0	System Analyst	NextGen Technologies	2006-2011	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2019.0
+147	Person 147	30	M	Germany	HTML/CSS	Débutant										
+147	Person 147	30	M	Germany	Node.js	Avancé										
+147	Person 147	30	M	Germany	HTML/CSS	Expert										
+148	Person 148	56	F	France	JavaScript	Avancé	BSc in Software Engineering	Université de Toronto	2006.0	Project Manager	Innovative Solutions	2000-2005	Intégration d'une plateforme de microservices	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2020.0
+148	Person 148	56	F	France	Java	Débutant	BSc in Software Engineering	MIT	2018.0	Software Developer	XYZ Corp	2006-2011	Système de gestion de contenu (CMS)			
+148	Person 148	56	F	France	React	Débutant				Software Developer	XYZ Corp	2014-2019	Migration vers le cloud			
+148	Person 148	56	F	France	JavaScript	Expert				Data Scientist	NextGen Technologies	2015-2019	Développement d'API REST pour un système de paiement			
+148	Person 148	56	F	France	Kubernetes	Expert										
+148	Person 148	56	F	France	Docker	Débutant										
+148	Person 148	56	F	France	Docker	Expert										
+149	Person 149	22	F	Germany	Python	Débutant	MSc in Software Development	Université Paris-Sud	2017.0	Data Scientist	NextGen Technologies	2013-2018	Migration vers le cloud	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2015.0
+149	Person 149	22	F	Germany	React	Expert	MSc in Computer Science	Stanford University	2006.0	System Analyst	ABC Inc	2003-2007	Système de gestion de contenu (CMS)	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2019.0
+149	Person 149	22	F	Germany	Kubernetes	Avancé				Data Scientist	Innovative Solutions	2012-2014	Migration vers le cloud			
+150	Person 150	58	F	USA	Java	Expert	Diploma in Full Stack Development	Stanford University	2003.0	System Analyst	Innovative Solutions	2003-2007	Système de gestion de contenu (CMS)	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2018.0
+150	Person 150	58	F	USA	Microservices	Expert	BSc in Information Technology	Université de Toronto	2003.0	Software Developer	ABC Inc	2018-2019	Intégration d'une plateforme de microservices			
+150	Person 150	58	F	USA	React	Avancé	MSc in Computer Science	MIT	2014.0	System Analyst	NextGen Technologies	2013-2016	Système de gestion des utilisateurs			
+150	Person 150	58	F	USA	Cloud Services (AWS, Azure)	Intermédiaire				System Analyst	Innovative Solutions	2005-2007	Application mobile de commerce électronique			
+150	Person 150	58	F	USA	C++	Expert										
+150	Person 150	58	F	USA	SQL	Avancé										
+150	Person 150	58	F	USA	Git	Débutant										
+151	Person 151	48	F	USA	Node.js	Avancé	BSc in Information Technology	University of Cambridge	2005.0	DevOps Engineer	ABC Inc	2020-2025	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2016.0
+151	Person 151	48	F	USA	JavaScript	Débutant	BSc in Software Engineering	University of Cambridge	2023.0	System Analyst	XYZ Corp	2017-2021	Développement d'une application de gestion de tâches	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2022.0
+151	Person 151	48	F	USA	React	Débutant	MSc in Computer Science	Université Paris-Sud	2017.0	DevOps Engineer	Global Tech	2020-2022	Développement d'API REST pour un système de paiement			
+151	Person 151	48	F	USA	Agile Development	Avancé				Data Scientist	ABC Inc	2012-2016	Système de gestion de contenu (CMS)			
+151	Person 151	48	F	USA	C++	Avancé										
+151	Person 151	48	F	USA	Cloud Services (AWS, Azure)	Débutant										
+152	Person 152	34	F	Germany	Git	Expert	BSc in Information Technology	MIT	2019.0	DevOps Engineer	XYZ Corp	2019-2021	Système de gestion des utilisateurs	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2021.0
+152	Person 152	34	F	Germany	Kubernetes	Débutant	MSc in Computer Science	Université de Toronto	2018.0	Data Scientist	XYZ Corp	2009-2014	Application mobile de commerce électronique			
+152	Person 152	34	F	Germany	Agile Development	Expert				Software Developer	NextGen Technologies	2014-2018	Développement d'une application de gestion de tâches			
+152	Person 152	34	F	Germany	Java	Intermédiaire				Data Scientist	Global Tech	2004-2007	Application mobile de commerce électronique			
+152	Person 152	34	F	Germany	React	Intermédiaire										
+153	Person 153	60	F	Canada	REST APIs	Intermédiaire	BSc in Software Engineering	MIT	2019.0	Data Scientist	Innovative Solutions	2009-2012	Développement d'API REST pour un système de paiement	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2021.0
+153	Person 153	60	F	Canada	Microservices	Expert	Diploma in Full Stack Development	Université Paris-Sud	2019.0	System Analyst	XYZ Corp	2002-2004	Intégration d'une plateforme de microservices			
+153	Person 153	60	F	Canada	Java	Intermédiaire				Data Scientist	ABC Inc	2013-2017	Système de gestion de contenu (CMS)			
+153	Person 153	60	F	Canada						Software Developer	ABC Inc	2001-2003	Développement d'une application de gestion de tâches			
+154	Person 154	40	F	Canada	Python	Avancé	MSc in Computer Science	Université Paris-Sud	2006.0	Project Manager	Innovative Solutions	2010-2014	Intégration d'une plateforme de microservices	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2021.0
+154	Person 154	40	F	Canada	Microservices	Expert	MSc in Computer Science	Université de Toronto	2004.0	System Analyst	ABC Inc	2019-2022	Développement d'une application de gestion de tâches	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2015.0
+154	Person 154	40	F	Canada	JavaScript	Débutant										
+154	Person 154	40	F	Canada	JavaScript	Intermédiaire										
+154	Person 154	40	F	Canada	Java	Intermédiaire										
+155	Person 155	52	F	Germany	REST APIs	Débutant	BSc in Software Engineering	University of Cambridge	2017.0	Software Developer	NextGen Technologies	2010-2014	Développement d'API REST pour un système de paiement	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2018.0
+155	Person 155	52	F	Germany	Kubernetes	Intermédiaire				Project Manager	Global Tech	2009-2010	Développement d'API REST pour un système de paiement			
+155	Person 155	52	F	Germany	Microservices	Expert				Data Scientist	NextGen Technologies	2006-2010	Système de gestion des utilisateurs			
+155	Person 155	52	F	Germany	C++	Expert				System Analyst	Innovative Solutions	2017-2021	Développement d'API REST pour un système de paiement			
+156	Person 156	43	M	Germany	JavaScript	Expert	MSc in Computer Science	Stanford University	2012.0	Project Manager	XYZ Corp	2016-2021	Application mobile de commerce électronique	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2016.0
+156	Person 156	43	M	Germany	React	Intermédiaire	BSc in Information Technology	MIT	2006.0	Project Manager	Innovative Solutions	2017-2021	Système de gestion des utilisateurs	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+156	Person 156	43	M	Germany	Microservices	Débutant	MSc in Software Development	MIT	2023.0	Software Developer	Global Tech	2002-2005	Mise en place de CI/CD avec Jenkins	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2023.0
+156	Person 156	43	M	Germany						Project Manager	Global Tech	2013-2017	Application mobile de commerce électronique			
+157	Person 157	48	M	USA	JavaScript	Expert	BSc in Information Technology	University of Cambridge	2023.0	Software Developer	Innovative Solutions	2007-2009	Mise en place de CI/CD avec Jenkins	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2018.0
+157	Person 157	48	M	USA	Python	Débutant	MSc in Software Development	Stanford University	2007.0	Data Scientist	Global Tech	2003-2008	Système de gestion des utilisateurs	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2020.0
+157	Person 157	48	M	USA	SQL	Avancé				Data Scientist	NextGen Technologies	2008-2013	Migration vers le cloud			
+157	Person 157	48	M	USA						DevOps Engineer	Innovative Solutions	2009-2014	Migration vers le cloud			
+158	Person 158	58	M	USA	Agile Development	Intermédiaire	MSc in Software Development	MIT	2005.0	Data Scientist	XYZ Corp	2004-2009	Migration vers le cloud	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+158	Person 158	58	M	USA	JavaScript	Débutant	BSc in Software Engineering	Université de Toronto	2006.0	System Analyst	NextGen Technologies	2019-2023	Développement d'une application de gestion de tâches	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2022.0
+158	Person 158	58	M	USA	Microservices	Avancé	MSc in Computer Science	Université Paris-Sud	2016.0	Data Scientist	ABC Inc	2015-2019	Système de gestion de contenu (CMS)			
+159	Person 159	56	F	Germany	Node.js	Débutant	MSc in Computer Science	University of Cambridge	2014.0	Data Scientist	Global Tech	2007-2009	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2016.0
+159	Person 159	56	F	Germany	REST APIs	Expert				Data Scientist	ABC Inc	2000-2003	Développement d'API REST pour un système de paiement	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+159	Person 159	56	F	Germany	Java	Intermédiaire				System Analyst	NextGen Technologies	2001-2003	Développement d'API REST pour un système de paiement			
+159	Person 159	56	F	Germany	DevOps	Débutant										
+159	Person 159	56	F	Germany	Microservices	Débutant										
+160	Person 160	23	F	France	React	Débutant	BSc in Software Engineering	Université de Toronto	2022.0	System Analyst	NextGen Technologies	2018-2019	Système de gestion de contenu (CMS)	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2019.0
+160	Person 160	23	F	France	SQL	Débutant	MSc in Computer Science	MIT	2020.0	Software Developer	ABC Inc	2003-2004	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2023.0
+160	Person 160	23	F	France	DevOps	Débutant				Data Scientist	Global Tech	2002-2007	Système de gestion des utilisateurs	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+160	Person 160	23	F	France	HTML/CSS	Débutant										
+160	Person 160	23	F	France	Microservices	Débutant										
+160	Person 160	23	F	France	DevOps	Expert										
+160	Person 160	23	F	France	REST APIs	Avancé										
+161	Person 161	26	M	Canada	Agile Development	Avancé	BSc in Information Technology	Université de Toronto	2010.0	Software Developer	ABC Inc	2003-2005	Application mobile de commerce électronique	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+161	Person 161	26	M	Canada	Kubernetes	Débutant	MSc in Computer Science	Stanford University	2016.0	System Analyst	Global Tech	2017-2020	Système de gestion de contenu (CMS)			
+161	Person 161	26	M	Canada	REST APIs	Débutant										
+161	Person 161	26	M	Canada	Cloud Services (AWS, Azure)	Intermédiaire										
+161	Person 161	26	M	Canada	Git	Expert										
+161	Person 161	26	M	Canada	Python	Expert										
+162	Person 162	36	M	USA	Python	Débutant	Diploma in Full Stack Development	Université de Toronto	2012.0	Project Manager	NextGen Technologies	2006-2009	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2018.0
+162	Person 162	36	M	USA	Kubernetes	Avancé	BSc in Information Technology	MIT	2013.0					Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+162	Person 162	36	M	USA	Java	Expert	BSc in Software Engineering	Stanford University	2022.0							
+162	Person 162	36	M	USA	Node.js	Expert										
+162	Person 162	36	M	USA	Cloud Services (AWS, Azure)	Expert										
+163	Person 163	59	M	Canada	Microservices	Avancé	MSc in Computer Science	Université de Toronto	2016.0	Software Developer	Global Tech	2008-2012	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2021.0
+163	Person 163	59	M	Canada	Microservices	Intermédiaire	BSc in Software Engineering	Université de Toronto	2021.0	Software Developer	Innovative Solutions	2011-2016	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2015.0
+163	Person 163	59	M	Canada	Git	Avancé	BSc in Software Engineering	MIT	2019.0	Data Scientist	XYZ Corp	2009-2014	Intégration d'une plateforme de microservices			
+163	Person 163	59	M	Canada	Agile Development	Avancé				DevOps Engineer	Global Tech	2007-2008	Système de gestion des utilisateurs			
+163	Person 163	59	M	Canada	Cloud Services (AWS, Azure)	Intermédiaire										
+163	Person 163	59	M	Canada	Kubernetes	Avancé										
+163	Person 163	59	M	Canada	Microservices	Expert										
+164	Person 164	22	F	France	Git	Avancé	MSc in Software Development	Stanford University	2021.0	Software Developer	ABC Inc	2017-2021	Migration vers le cloud	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+164	Person 164	22	F	France	Java	Avancé				Project Manager	XYZ Corp	2013-2016	Intégration d'une plateforme de microservices			
+164	Person 164	22	F	France	Agile Development	Intermédiaire				Data Scientist	XYZ Corp	2005-2008	Migration vers le cloud			
+164	Person 164	22	F	France	JavaScript	Expert										
+165	Person 165	37	F	Germany	JavaScript	Intermédiaire	MSc in Software Development	MIT	2017.0	DevOps Engineer	Global Tech	2009-2011	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2022.0
+165	Person 165	37	F	Germany	Node.js	Avancé	BSc in Information Technology	University of Cambridge	2009.0	Data Scientist	ABC Inc	2006-2011	Système de gestion de contenu (CMS)			
+165	Person 165	37	F	Germany	Java	Expert	BSc in Information Technology	Université de Toronto	2011.0							
+165	Person 165	37	F	Germany	Microservices	Avancé										
+165	Person 165	37	F	Germany	Java	Avancé										
+165	Person 165	37	F	Germany	C++	Débutant										
+166	Person 166	37	F	France	Python	Expert	BSc in Software Engineering	University of Cambridge	2019.0	Project Manager	Innovative Solutions	2020-2021	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2017.0
+166	Person 166	37	F	France	REST APIs	Intermédiaire				Software Developer	Innovative Solutions	2012-2016	Système de gestion des utilisateurs			
+166	Person 166	37	F	France	SQL	Expert										
+166	Person 166	37	F	France	Java	Débutant										
+166	Person 166	37	F	France	DevOps	Avancé										
+167	Person 167	37	F	UK	C++	Expert	Diploma in Full Stack Development	MIT	2004.0	Project Manager	ABC Inc	2016-2021	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+167	Person 167	37	F	UK	Python	Avancé	BSc in Information Technology	Stanford University	2004.0	Project Manager	Innovative Solutions	2015-2019	Migration vers le cloud	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+167	Person 167	37	F	UK	React	Expert				System Analyst	XYZ Corp	2019-2020	Migration vers le cloud	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2023.0
+167	Person 167	37	F	UK	Node.js	Intermédiaire										
+168	Person 168	24	F	France	Git	Expert	MSc in Software Development	Université Paris-Sud	2011.0	Data Scientist	NextGen Technologies	2017-2020	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2017.0
+168	Person 168	24	F	France	Java	Intermédiaire				DevOps Engineer	ABC Inc	2020-2022	Système de gestion de contenu (CMS)	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2021.0
+168	Person 168	24	F	France	Microservices	Avancé				DevOps Engineer	Global Tech	2008-2012	Système de gestion des utilisateurs	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2021.0
+168	Person 168	24	F	France	Git	Débutant										
+168	Person 168	24	F	France	Python	Avancé										
+169	Person 169	24	M	Canada	Microservices	Débutant	BSc in Information Technology	Université de Toronto	2012.0	Project Manager	XYZ Corp	2001-2005	Système de gestion de contenu (CMS)	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+169	Person 169	24	M	Canada	Docker	Avancé	MSc in Software Development	Université Paris-Sud	2006.0	DevOps Engineer	ABC Inc	2005-2010	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2019.0
+169	Person 169	24	M	Canada	HTML/CSS	Avancé								Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2018.0
+169	Person 169	24	M	Canada	JavaScript	Intermédiaire										
+169	Person 169	24	M	Canada	Agile Development	Expert										
+169	Person 169	24	M	Canada	DevOps	Intermédiaire										
+170	Person 170	23	F	UK	Cloud Services (AWS, Azure)	Débutant	MSc in Software Development	University of Cambridge	2005.0	DevOps Engineer	ABC Inc	2013-2015	Développement d'une application de gestion de tâches	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2016.0
+170	Person 170	23	F	UK	Kubernetes	Débutant	MSc in Computer Science	Université Paris-Sud	2019.0	DevOps Engineer	XYZ Corp	2008-2010	Système de gestion de contenu (CMS)	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2016.0
+170	Person 170	23	F	UK	C++	Avancé				DevOps Engineer	NextGen Technologies	2014-2015	Migration vers le cloud			
+170	Person 170	23	F	UK	Java	Débutant				System Analyst	Innovative Solutions	2014-2015	Système de gestion de contenu (CMS)			
+170	Person 170	23	F	UK	React	Expert										
+170	Person 170	23	F	UK	HTML/CSS	Expert										
+171	Person 171	50	M	Canada	REST APIs	Débutant	MSc in Computer Science	University of Cambridge	2019.0	DevOps Engineer	XYZ Corp	2010-2013	Système de gestion des utilisateurs	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+171	Person 171	50	M	Canada	Cloud Services (AWS, Azure)	Intermédiaire	Diploma in Full Stack Development	Université Paris-Sud	2015.0	DevOps Engineer	ABC Inc	2008-2009	Système de gestion des utilisateurs	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2018.0
+171	Person 171	50	M	Canada	Node.js	Expert				DevOps Engineer	NextGen Technologies	2018-2020	Intégration d'une plateforme de microservices			
+171	Person 171	50	M	Canada	Git	Avancé				Software Developer	Innovative Solutions	2002-2003	Développement d'API REST pour un système de paiement			
+172	Person 172	37	M	Canada	Node.js	Expert	MSc in Software Development	Université Paris-Sud	2017.0	Data Scientist	Innovative Solutions	2002-2007	Application mobile de commerce électronique	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+172	Person 172	37	M	Canada	JavaScript	Débutant	BSc in Information Technology	Université Paris-Sud	2017.0	DevOps Engineer	ABC Inc	2005-2009	Migration vers le cloud	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+172	Person 172	37	M	Canada	JavaScript	Intermédiaire				Project Manager	Innovative Solutions	2020-2023	Système de gestion des utilisateurs			
+172	Person 172	37	M	Canada	C++	Expert										
+172	Person 172	37	M	Canada	HTML/CSS	Intermédiaire										
+172	Person 172	37	M	Canada	Git	Avancé										
+173	Person 173	45	F	France	Cloud Services (AWS, Azure)	Expert	MSc in Computer Science	MIT	2018.0	Project Manager	Global Tech	2006-2009	Intégration d'une plateforme de microservices	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+173	Person 173	45	F	France	REST APIs	Expert	Diploma in Full Stack Development	MIT	2005.0	DevOps Engineer	Global Tech	2007-2011	Migration vers le cloud	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2018.0
+173	Person 173	45	F	France	Cloud Services (AWS, Azure)	Avancé	MSc in Software Development	Université Paris-Sud	2022.0							
+173	Person 173	45	F	France	Git	Intermédiaire										
+173	Person 173	45	F	France	React	Avancé										
+173	Person 173	45	F	France	Agile Development	Expert										
+174	Person 174	32	M	Germany	Microservices	Expert	Diploma in Full Stack Development	Stanford University	2023.0	Project Manager	Innovative Solutions	2014-2019	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+174	Person 174	32	M	Germany	Cloud Services (AWS, Azure)	Intermédiaire	Diploma in Full Stack Development	MIT	2009.0							
+174	Person 174	32	M	Germany	Docker	Expert	BSc in Software Engineering	Stanford University	2005.0							
+174	Person 174	32	M	Germany	SQL	Intermédiaire										
+174	Person 174	32	M	Germany	Python	Débutant										
+174	Person 174	32	M	Germany	Kubernetes	Intermédiaire										
+174	Person 174	32	M	Germany	Java	Intermédiaire										
+175	Person 175	34	M	Canada	JavaScript	Débutant	MSc in Software Development	MIT	2021.0	Project Manager	Global Tech	2016-2021	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2015.0
+175	Person 175	34	M	Canada	Microservices	Intermédiaire								Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2018.0
+175	Person 175	34	M	Canada	Python	Intermédiaire										
+175	Person 175	34	M	Canada	Cloud Services (AWS, Azure)	Intermédiaire										
+176	Person 176	58	M	Canada	Git	Expert	MSc in Software Development	MIT	2003.0	DevOps Engineer	ABC Inc	2000-2004	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2015.0
+176	Person 176	58	M	Canada	SQL	Débutant	Diploma in Full Stack Development	University of Cambridge	2005.0	DevOps Engineer	Global Tech	2011-2016	Développement d'API REST pour un système de paiement	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2016.0
+176	Person 176	58	M	Canada	Cloud Services (AWS, Azure)	Avancé										
+176	Person 176	58	M	Canada	C++	Expert										
+176	Person 176	58	M	Canada	Git	Expert										
+177	Person 177	38	F	Canada	DevOps	Intermédiaire	BSc in Information Technology	Stanford University	2004.0	Software Developer	XYZ Corp	2008-2010	Système de gestion des utilisateurs	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+177	Person 177	38	F	Canada	Agile Development	Avancé	BSc in Software Engineering	Université de Toronto	2010.0	Data Scientist	XYZ Corp	2014-2015	Développement d'une application de gestion de tâches	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+177	Person 177	38	F	Canada	JavaScript	Débutant				DevOps Engineer	ABC Inc	2006-2009	Système de gestion de contenu (CMS)	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2016.0
+177	Person 177	38	F	Canada						Project Manager	NextGen Technologies	2011-2016	Système de gestion de contenu (CMS)			
+178	Person 178	40	F	Germany	React	Expert	MSc in Computer Science	MIT	2023.0	Data Scientist	ABC Inc	2017-2022	Système de gestion des utilisateurs	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2023.0
+178	Person 178	40	F	Germany	Cloud Services (AWS, Azure)	Intermédiaire	MSc in Computer Science	University of Cambridge	2000.0	Software Developer	NextGen Technologies	2001-2002	Mise en place de CI/CD avec Jenkins			
+178	Person 178	40	F	Germany	Kubernetes	Expert	MSc in Computer Science	Université Paris-Sud	2021.0							
+178	Person 178	40	F	Germany	Node.js	Intermédiaire										
+178	Person 178	40	F	Germany	SQL	Débutant										
+178	Person 178	40	F	Germany	Python	Expert										
+178	Person 178	40	F	Germany	Node.js	Avancé										
+179	Person 179	50	M	USA	Java	Avancé	BSc in Software Engineering	Stanford University	2002.0	System Analyst	Innovative Solutions	2012-2013	Système de gestion des utilisateurs	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2021.0
+179	Person 179	50	M	USA	Python	Débutant	BSc in Information Technology	MIT	2002.0	System Analyst	ABC Inc	2019-2024	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2021.0
+179	Person 179	50	M	USA	C++	Intermédiaire				DevOps Engineer	Innovative Solutions	2010-2013	Intégration d'une plateforme de microservices			
+179	Person 179	50	M	USA	Microservices	Expert				Data Scientist	Innovative Solutions	2011-2012	Intégration d'une plateforme de microservices			
+180	Person 180	54	M	USA	Agile Development	Intermédiaire	BSc in Software Engineering	MIT	2009.0	Data Scientist	Innovative Solutions	2018-2023	Système de gestion des utilisateurs	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2017.0
+180	Person 180	54	M	USA	SQL	Expert	BSc in Software Engineering	MIT	2008.0	Project Manager	ABC Inc	2013-2014	Intégration d'une plateforme de microservices	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+180	Person 180	54	M	USA	Agile Development	Expert				Data Scientist	NextGen Technologies	2008-2012	Mise en place de CI/CD avec Jenkins			
+180	Person 180	54	M	USA	Docker	Expert				Software Developer	XYZ Corp	2014-2015	Développement d'API REST pour un système de paiement			
+181	Person 181	23	F	USA	REST APIs	Expert	MSc in Software Development	University of Cambridge	2001.0	DevOps Engineer	ABC Inc	2016-2021	Système de gestion de contenu (CMS)	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2022.0
+181	Person 181	23	F	USA	Java	Expert	BSc in Software Engineering	Université Paris-Sud	2010.0	Data Scientist	Innovative Solutions	2005-2006	Application mobile de commerce électronique	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2020.0
+181	Person 181	23	F	USA	Microservices	Intermédiaire				Data Scientist	Global Tech	2008-2013	Migration vers le cloud	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2020.0
+182	Person 182	25	M	UK	HTML/CSS	Débutant	MSc in Software Development	MIT	2002.0	System Analyst	Innovative Solutions	2012-2016	Développement d'API REST pour un système de paiement	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+182	Person 182	25	M	UK	C++	Avancé	BSc in Information Technology	Université Paris-Sud	2015.0	Data Scientist	Innovative Solutions	2012-2013	Mise en place de CI/CD avec Jenkins			
+182	Person 182	25	M	UK	React	Expert	Diploma in Full Stack Development	Université Paris-Sud	2018.0							
+183	Person 183	25	F	Germany	React	Avancé	MSc in Computer Science	Université Paris-Sud	2000.0	Project Manager	XYZ Corp	2009-2010	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+183	Person 183	25	F	Germany	REST APIs	Débutant				System Analyst	XYZ Corp	2007-2008	Développement d'une application de gestion de tâches	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2018.0
+183	Person 183	25	F	Germany	REST APIs	Débutant				Project Manager	Global Tech	2016-2017	Développement d'une application de gestion de tâches			
+183	Person 183	25	F	Germany	React	Avancé										
+183	Person 183	25	F	Germany	Cloud Services (AWS, Azure)	Avancé										
+183	Person 183	25	F	Germany	Docker	Intermédiaire										
+184	Person 184	49	M	UK	SQL	Intermédiaire	Diploma in Full Stack Development	Université Paris-Sud	2007.0	DevOps Engineer	Global Tech	2011-2016	Intégration d'une plateforme de microservices	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+184	Person 184	49	M	UK	C++	Débutant				DevOps Engineer	Global Tech	2009-2014	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2019.0
+184	Person 184	49	M	UK	HTML/CSS	Débutant				System Analyst	XYZ Corp	2016-2018	Développement d'une application de gestion de tâches			
+184	Person 184	49	M	UK						Data Scientist	ABC Inc	2004-2008	Système de gestion de contenu (CMS)			
+185	Person 185	47	M	Canada	Node.js	Intermédiaire	MSc in Software Development	Université Paris-Sud	2015.0	System Analyst	Global Tech	2006-2009	Intégration d'une plateforme de microservices	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2019.0
+185	Person 185	47	M	Canada	SQL	Avancé	MSc in Computer Science	MIT	2021.0	Data Scientist	NextGen Technologies	2010-2014	Application mobile de commerce électronique	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2022.0
+185	Person 185	47	M	Canada	Kubernetes	Expert				Software Developer	Innovative Solutions	2010-2015	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+185	Person 185	47	M	Canada	React	Débutant				Data Scientist	Global Tech	2020-2022	Système de gestion des utilisateurs			
+185	Person 185	47	M	Canada	Node.js	Intermédiaire										
+185	Person 185	47	M	Canada	React	Débutant										
+186	Person 186	52	F	Germany	REST APIs	Avancé	BSc in Software Engineering	Stanford University	2011.0	System Analyst	ABC Inc	2011-2013	Développement d'une application de gestion de tâches	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2017.0
+186	Person 186	52	F	Germany	SQL	Débutant				Software Developer	Global Tech	2004-2006	Mise en place de CI/CD avec Jenkins	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+186	Person 186	52	F	Germany	REST APIs	Avancé										
+186	Person 186	52	F	Germany	Java	Avancé										
+186	Person 186	52	F	Germany	React	Avancé										
+186	Person 186	52	F	Germany	Agile Development	Avancé										
+186	Person 186	52	F	Germany	HTML/CSS	Intermédiaire										
+187	Person 187	47	M	USA	Python	Intermédiaire	Diploma in Full Stack Development	Université Paris-Sud	2013.0	DevOps Engineer	Global Tech	2008-2012	Application mobile de commerce électronique	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2021.0
+187	Person 187	47	M	USA	Agile Development	Expert	MSc in Computer Science	University of Cambridge	2005.0	System Analyst	XYZ Corp	2019-2021	Développement d'une application de gestion de tâches			
+187	Person 187	47	M	USA	Agile Development	Débutant	BSc in Software Engineering	Stanford University	2023.0							
+187	Person 187	47	M	USA	Microservices	Expert										
+188	Person 188	32	M	France	React	Expert	MSc in Computer Science	Stanford University	2018.0	System Analyst	ABC Inc	2013-2016	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2022.0
+188	Person 188	32	M	France	Kubernetes	Avancé	Diploma in Full Stack Development	University of Cambridge	2018.0	System Analyst	Innovative Solutions	2015-2020	Système de gestion de contenu (CMS)			
+188	Person 188	32	M	France	Cloud Services (AWS, Azure)	Expert										
+188	Person 188	32	M	France	Java	Avancé										
+188	Person 188	32	M	France	Java	Expert										
+189	Person 189	48	F	France	REST APIs	Avancé	BSc in Information Technology	Université de Toronto	2021.0	Project Manager	NextGen Technologies	2001-2004	Migration vers le cloud	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2017.0
+189	Person 189	48	F	France	Java	Avancé				Project Manager	NextGen Technologies	2017-2020	Système de gestion des utilisateurs	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2016.0
+189	Person 189	48	F	France	Node.js	Expert				DevOps Engineer	XYZ Corp	2017-2021	Développement d'une application de gestion de tâches	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2023.0
+189	Person 189	48	F	France	REST APIs	Intermédiaire				Project Manager	Innovative Solutions	2003-2008	Application mobile de commerce électronique			
+190	Person 190	44	M	France	JavaScript	Avancé	BSc in Information Technology	Université Paris-Sud	2012.0	Project Manager	ABC Inc	2011-2012	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2022.0
+190	Person 190	44	M	France	Git	Avancé				Software Developer	Innovative Solutions	2007-2009	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2015.0
+190	Person 190	44	M	France	Kubernetes	Débutant				System Analyst	Global Tech	2019-2022	Migration vers le cloud			
+190	Person 190	44	M	France	React	Débutant										
+190	Person 190	44	M	France	Agile Development	Avancé										
+190	Person 190	44	M	France	Python	Expert										
+190	Person 190	44	M	France	Agile Development	Expert										
+191	Person 191	36	M	USA	DevOps	Intermédiaire	BSc in Software Engineering	Université de Toronto	2022.0	DevOps Engineer	Innovative Solutions	2020-2023	Application mobile de commerce électronique	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2021.0
+191	Person 191	36	M	USA	Agile Development	Débutant				DevOps Engineer	ABC Inc	2012-2016	Système de gestion des utilisateurs	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2016.0
+191	Person 191	36	M	USA	Cloud Services (AWS, Azure)	Expert				System Analyst	Innovative Solutions	2016-2021	Système de gestion de contenu (CMS)	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2023.0
+191	Person 191	36	M	USA	Java	Avancé				System Analyst	ABC Inc	2006-2009	Système de gestion de contenu (CMS)			
+191	Person 191	36	M	USA	React	Avancé										
+192	Person 192	38	F	USA	Node.js	Avancé	Diploma in Full Stack Development	Stanford University	2022.0	Software Developer	NextGen Technologies	2007-2008	Système de gestion des utilisateurs	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+192	Person 192	38	F	USA	JavaScript	Avancé	Diploma in Full Stack Development	University of Cambridge	2005.0	Software Developer	Global Tech	2016-2019	Application mobile de commerce électronique	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2020.0
+192	Person 192	38	F	USA	Node.js	Débutant	MSc in Computer Science	Université Paris-Sud	2011.0							
+192	Person 192	38	F	USA	Agile Development	Intermédiaire										
+192	Person 192	38	F	USA	DevOps	Intermédiaire										
+192	Person 192	38	F	USA	JavaScript	Intermédiaire										
+193	Person 193	51	F	USA	REST APIs	Débutant	Diploma in Full Stack Development	MIT	2020.0	Software Developer	ABC Inc	2000-2002	Intégration d'une plateforme de microservices	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2023.0
+193	Person 193	51	F	USA	Docker	Intermédiaire	BSc in Software Engineering	University of Cambridge	2014.0	Data Scientist	ABC Inc	2011-2015	Système de gestion des utilisateurs	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2015.0
+193	Person 193	51	F	USA	Kubernetes	Débutant	MSc in Computer Science	University of Cambridge	2017.0							
+193	Person 193	51	F	USA	Node.js	Intermédiaire										
+193	Person 193	51	F	USA	REST APIs	Débutant										
+193	Person 193	51	F	USA	Node.js	Intermédiaire										
+193	Person 193	51	F	USA	Microservices	Avancé										
+194	Person 194	60	F	USA	Python	Débutant	Diploma in Full Stack Development	MIT	2020.0	System Analyst	Innovative Solutions	2008-2009	Développement d'une application de gestion de tâches	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2021.0
+194	Person 194	60	F	USA	Agile Development	Expert	BSc in Information Technology	Université de Toronto	2001.0	Project Manager	ABC Inc	2005-2006	Intégration d'une plateforme de microservices	Hackathon: Open Source Software	Participation à un hackathon sur les logiciels open source	2017.0
+194	Person 194	60	F	USA	JavaScript	Débutant	Diploma in Full Stack Development	Université de Toronto	2012.0	Data Scientist	XYZ Corp	2009-2011	Migration vers le cloud	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2023.0
+194	Person 194	60	F	USA	Cloud Services (AWS, Azure)	Débutant										
+194	Person 194	60	F	USA	Git	Expert										
+194	Person 194	60	F	USA	React	Expert										
+194	Person 194	60	F	USA	Docker	Intermédiaire										
+195	Person 195	47	F	USA	Java	Avancé	BSc in Information Technology	University of Cambridge	2018.0	Project Manager	NextGen Technologies	2018-2021	Développement d'API REST pour un système de paiement	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2015.0
+195	Person 195	47	F	USA	Agile Development	Débutant	BSc in Software Engineering	MIT	2004.0	Software Developer	ABC Inc	2006-2007	Développement d'une application de gestion de tâches			
+195	Person 195	47	F	USA	Node.js	Expert	MSc in Computer Science	Université Paris-Sud	2008.0							
+195	Person 195	47	F	USA	Java	Débutant										
+196	Person 196	58	F	Germany	Cloud Services (AWS, Azure)	Intermédiaire	MSc in Software Development	MIT	2003.0	Data Scientist	Innovative Solutions	2010-2012	Application mobile de commerce électronique	Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2020.0
+196	Person 196	58	F	Germany	Git	Débutant	MSc in Software Development	Université de Toronto	2015.0	System Analyst	Innovative Solutions	2016-2019	Système de gestion de contenu (CMS)	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2019.0
+196	Person 196	58	F	Germany	SQL	Débutant				Project Manager	Innovative Solutions	2015-2017	Intégration d'une plateforme de microservices	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2018.0
+196	Person 196	58	F	Germany	SQL	Expert				System Analyst	XYZ Corp	2016-2018	Mise en place de CI/CD avec Jenkins			
+197	Person 197	26	F	Germany	SQL	Expert	BSc in Software Engineering	Université Paris-Sud	2016.0	Software Developer	XYZ Corp	2016-2017	Système de gestion de contenu (CMS)	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2016.0
+197	Person 197	26	F	Germany	Microservices	Débutant	BSc in Information Technology	Université de Toronto	2015.0					Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2018.0
+197	Person 197	26	F	Germany	HTML/CSS	Expert								Cours: Advanced Java Programming	Cours avancé sur la programmation Java	2022.0
+197	Person 197	26	F	Germany	Git	Débutant										
+197	Person 197	26	F	Germany	JavaScript	Avancé										
+197	Person 197	26	F	Germany	HTML/CSS	Intermédiaire										
+197	Person 197	26	F	Germany	Node.js	Avancé										
+198	Person 198	59	M	Germany	Cloud Services (AWS, Azure)	Intermédiaire	BSc in Information Technology	Université de Toronto	2008.0	DevOps Engineer	Global Tech	2005-2009	Système de gestion de contenu (CMS)	Conférence: DevOps Summit	Participation à une conférence sur les pratiques DevOps	2019.0
+198	Person 198	59	M	Germany	JavaScript	Intermédiaire	Diploma in Full Stack Development	Stanford University	2015.0					Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2016.0
+198	Person 198	59	M	Germany	Cloud Services (AWS, Azure)	Intermédiaire	MSc in Computer Science	University of Cambridge	2000.0							
+198	Person 198	59	M	Germany	Git	Intermédiaire										
+199	Person 199	29	F	UK	Docker	Avancé	Diploma in Full Stack Development	Stanford University	2001.0	System Analyst	Innovative Solutions	2020-2022	Système de gestion des utilisateurs	Webinar: Modern Web Development with React	Webinar sur le développement web moderne avec React	2019.0
+199	Person 199	29	F	UK	Python	Expert	BSc in Software Engineering	MIT	2015.0	Data Scientist	XYZ Corp	2011-2014	Migration vers le cloud	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2015.0
+199	Person 199	29	F	UK	Docker	Avancé	MSc in Computer Science	University of Cambridge	2003.0	Data Scientist	Global Tech	2017-2018	Système de gestion des utilisateurs			
+199	Person 199	29	F	UK	SQL	Intermédiaire										
+199	Person 199	29	F	UK	Node.js	Débutant										
+200	Person 200	50	M	Germany	Cloud Services (AWS, Azure)	Débutant	MSc in Software Development	Université Paris-Sud	2008.0	Data Scientist	NextGen Technologies	2013-2014	Mise en place de CI/CD avec Jenkins	Atelier: Kubernetes for Developers	Atelier sur l'utilisation de Kubernetes pour les développeurs	2018.0
+200	Person 200	50	M	Germany	HTML/CSS	Débutant	MSc in Software Development	MIT	2011.0	DevOps Engineer	XYZ Corp	2012-2017	Intégration d'une plateforme de microservices	Projet: Full Stack Web Development	Développement d'un projet complet en développement web full stack	2016.0
+200	Person 200	50	M	Germany	Agile Development	Débutant	BSc in Software Engineering	MIT	2016.0							
+200	Person 200	50	M	Germany	HTML/CSS	Expert										
+200	Person 200	50	M	Germany	Docker	Intermédiaire										
+200	Person 200	50	M	Germany	Java	Expert										
+500	Person 500	37	M	USA	REST APIs	Débutant	MSc in Software Development	University of Cambridge	2015.0							
