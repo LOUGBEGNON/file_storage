@@ -1,0 +1,125 @@
+id	node1	label	node2
+edge1	person01	hasName	"""Person01""@fr"
+edge2	skill_2fbeb63f	hasName	"""Java""@fr"
+edge3	skill_534abc9a	hasName	"""Python""@fr"
+edge4	skill_493258eb	hasName	"""C++""@fr"
+edge5	skill_772efa4d	hasName	"""JavaScript""@fr"
+edge6	skill_dc0313fd	hasName	"""HTML/CSS""@fr"
+edge7	skill_9e70fb6c	hasName	"""SQL""@fr"
+edge8	skill_2b7d7bd7	hasName	"""React""@fr"
+edge9	skill_52127387	hasName	"""Node.js""@fr"
+edge10	skill_20a0be4b	hasName	"""Agile Development""@fr"
+edge11	skill_1fe4fbb5	hasName	"""DevOps""@fr"
+edge12	skill_e647957b	hasName	"""Git""@fr"
+edge13	skill_e42be390	hasName	"""Docker""@fr"
+edge14	skill_8ab1110d	hasName	"""Kubernetes""@fr"
+edge15	skill_15fc529b	hasName	"""Microservices""@fr"
+edge16	skill_30ea66f4	hasName	"""REST APIs""@fr"
+edge17	skill_bb17b85c	hasName	"""Cloud Services (AWS, Azure)""@fr"
+edge18	level_b25d5751	hasName	"""Débutant""@fr"
+edge19	level_29aa3902	hasName	"""Intermédiaire""@fr"
+edge20	level_88b3a1a7	hasName	"""Avancé""@fr"
+edge21	level_ced93fc9	hasName	"""Expert""@fr"
+edge22	studieName_ea45d285	hasName	"""BSc in Software Engineering""@fr"
+edge23	studieName_14b2b2b8	hasName	"""MSc in Computer Science""@fr"
+edge24	studieName_01234649	hasName	"""BSc in Information Technology""@fr"
+edge25	studieName_8baf14e6	hasName	"""MSc in Software Development""@fr"
+edge26	studieName_8974b2e3	hasName	"""Diploma in Full Stack Development""@fr"
+edge27	studieLocation_0a4073a5	hasName	"""Université Paris-Sud""@fr"
+edge28	studieLocation_dbdb3add	hasName	"""Université de Toronto""@fr"
+edge29	studieLocation_dc1b4d3e	hasName	"""MIT""@fr"
+edge30	studieLocation_6794b681	hasName	"""Stanford University""@fr"
+edge31	studieLocation_ea6fac73	hasName	"""University of Cambridge""@fr"
+edge32	workedAs_b0683cec	hasName	"""Software Developer""@fr"
+edge33	workedAs_9c7bfe9e	hasName	"""Data Scientist""@fr"
+edge34	workedAs_2ec9bb70	hasName	"""System Analyst""@fr"
+edge35	workedAs_a01651a5	hasName	"""Project Manager""@fr"
+edge36	workedAs_65b1acb5	hasName	"""DevOps Engineer""@fr"
+edge37	workLocation_cd4fcb32	hasName	"""XYZ Corp""@fr"
+edge38	workLocation_b73bbe98	hasName	"""ABC Inc""@fr"
+edge39	workLocation_a4960b12	hasName	"""Global Tech""@fr"
+edge40	workLocation_48314507	hasName	"""Innovative Solutions""@fr"
+edge41	workLocation_7ac7880d	hasName	"""NextGen Technologies""@fr"
+edge42	project_30baea0e	hasName	"""Développement d'une application de gestion de tâches""@fr"
+edge43	project_8a75d4c0	hasName	"""Système de gestion de contenu (CMS)""@fr"
+edge44	project_8cfa4667	hasName	"""Application mobile de commerce électronique""@fr"
+edge45	project_36093a32	hasName	"""Système de gestion des utilisateurs""@fr"
+edge46	project_9c54f671	hasName	"""Mise en place de CI/CD avec Jenkins""@fr"
+edge47	project_3bac2b12	hasName	"""Migration vers le cloud""@fr"
+edge48	project_88d6cb8f	hasName	"""Développement d'API REST pour un système de paiement""@fr"
+edge49	project_55447b98	hasName	"""Intégration d'une plateforme de microservices""@fr"
+edge50	activity_557cbd9d	hasName	"""Cours: Advanced Java Programming""@fr"
+edge51	activity_e1123dbe	hasName	"""Projet: Full Stack Web Development""@fr"
+edge52	activity_7ac5de8d	hasName	"""Conférence: DevOps Summit""@fr"
+edge53	activity_6c9aa454	hasName	"""Hackathon: Open Source Software""@fr"
+edge54	activity_227bc5e7	hasName	"""Webinar: Modern Web Development with React""@fr"
+edge55	activity_5962b034	hasName	"""Atelier: Kubernetes for Developers""@fr"
+edge56	activityDescription_783f43e0	hasName	"""Cours avancé sur la programmation Java""@fr"
+edge57	activityDescription_7f8d2826	hasName	"""Développement d'un projet complet en développement web full stack""@fr"
+edge58	activityDescription_9ca4551c	hasName	"""Participation à une conférence sur les pratiques DevOps""@fr"
+edge59	activityDescription_2f59c82e	hasName	"""Participation à un hackathon sur les logiciels open source""@fr"
+edge60	activityDescription_fd701d9c	hasName	"""Webinar sur le développement web moderne avec React""@fr"
+edge61	activityDescription_8dc887d7	hasName	"""Atelier sur l'utilisation de Kubernetes pour les développeurs""@fr"
+edge62	person01	hasSkill	skill_2b7d7bd7
+edge63	person01	hasSkill	skill_9e70fb6c
+edge64	person01	hasSkill	skill_20a0be4b
+edge65	person01	hasSkill	skill_20a0be4b
+edge66	person01	hasSkill	skill_20a0be4b
+edge67	person01	hasSkill	skill_9e70fb6c
+edge68	person02	hasSkill	skill_e647957b
+edge69	person02	hasSkill	skill_1fe4fbb5
+edge70	person02	hasSkill	skill_2fbeb63f
+edge71	person03	hasSkill	skill_30ea66f4
+edge72	person03	hasSkill	skill_e647957b
+edge73	person03	hasSkill	skill_2b7d7bd7
+edge74	person04	hasSkill	skill_e647957b
+edge75	person04	hasSkill	skill_bb17b85c
+edge76	person04	hasSkill	skill_534abc9a
+edge77	person05	hasSkill	skill_534abc9a
+edge78	person05	hasSkill	skill_20a0be4b
+edge79	person05	hasSkill	skill_1fe4fbb5
+edge80	person06	hasSkill	skill_52127387
+edge81	person06	hasSkill	skill_9e70fb6c
+edge82	person06	hasSkill	skill_772efa4d
+edge83	person07	hasSkill	skill_e42be390
+edge84	person07	hasSkill	skill_2fbeb63f
+edge85	person07	hasSkill	skill_9e70fb6c
+edge86	person08	hasSkill	skill_bb17b85c
+edge87	person08	hasSkill	skill_1fe4fbb5
+edge88	person08	hasSkill	skill_bb17b85c
+edge89	person09	hasSkill	skill_9e70fb6c
+edge90	person09	hasSkill	skill_8ab1110d
+edge91	person09	hasSkill	skill_534abc9a
+edge92	person10	hasSkill	skill_20a0be4b
+edge93	person10	hasSkill	skill_2fbeb63f
+edge94	person10	hasSkill	skill_8ab1110d
+edge95	person11	hasSkill	skill_2b7d7bd7
+edge96	person11	hasSkill	skill_dc0313fd
+edge97	person11	hasSkill	skill_2b7d7bd7
+edge98	person12	hasSkill	skill_30ea66f4
+edge99	person12	hasSkill	skill_534abc9a
+edge100	person12	hasSkill	skill_52127387
+edge101	person13	hasSkill	skill_2fbeb63f
+edge102	person13	hasSkill	skill_2b7d7bd7
+edge103	person13	hasSkill	skill_1fe4fbb5
+edge104	person14	hasSkill	
+edge105	person14	hasSkill	
+edge106	person14	hasSkill	
+edge107	person15	hasSkill	
+edge108	person15	hasSkill	
+edge109	person15	hasSkill	
+edge110	person16	hasSkill	
+edge111	person16	hasSkill	
+edge112	person16	hasSkill	
+edge113	person17	hasSkill	
+edge114	person17	hasSkill	
+edge115	person17	hasSkill	
+edge116	person18	hasSkill	
+edge117	person18	hasSkill	
+edge118	person18	hasSkill	
+edge119	person19	hasSkill	
+edge120	person19	hasSkill	
+edge121	person19	hasSkill	
+edge122	person20	hasSkill	
+edge123	person20	hasSkill	
+edge124	person20	hasSkill	
